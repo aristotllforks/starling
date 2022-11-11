@@ -6,7 +6,7 @@
 
 package com.opengamma.financial.credit;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.analytics.financial.credit.isdastandardmodel.StubType;
 import com.opengamma.financial.convention.businessday.BusinessDayConvention;

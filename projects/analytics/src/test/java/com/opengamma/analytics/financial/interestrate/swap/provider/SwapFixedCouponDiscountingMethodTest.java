@@ -3,8 +3,8 @@ package com.opengamma.analytics.financial.interestrate.swap.provider;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.date.WorkingDayCalendar;
 import com.opengamma.analytics.financial.instrument.index.GeneratorSwapFixedIbor;

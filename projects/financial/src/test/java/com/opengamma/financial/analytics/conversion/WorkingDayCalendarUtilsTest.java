@@ -14,8 +14,8 @@ import java.util.List;
 
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
 
 import com.mcleodmoores.date.WorkingDayCalendar;
 import com.opengamma.OpenGammaRuntimeException;

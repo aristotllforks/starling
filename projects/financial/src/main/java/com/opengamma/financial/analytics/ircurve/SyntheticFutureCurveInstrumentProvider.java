@@ -6,8 +6,8 @@
 package com.opengamma.financial.analytics.ircurve;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
+import java.time.LocalDate;
+import java.time.Month;
 
 import com.google.common.collect.BiMap;
 import com.google.common.collect.HashBiMap;

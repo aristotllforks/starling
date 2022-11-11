@@ -11,7 +11,7 @@ import static org.testng.AssertJUnit.assertNotNull;
 import static org.testng.AssertJUnit.assertNull;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Sets;
 import com.opengamma.core.value.MarketDataRequirementNames;

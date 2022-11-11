@@ -10,8 +10,8 @@ import static org.testng.AssertJUnit.assertFalse;
 import static org.testng.internal.junit.ArrayAsserts.assertArrayEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import com.opengamma.financial.convention.frequency.Frequency;
 import com.opengamma.financial.convention.frequency.PeriodFrequency;

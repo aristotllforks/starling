@@ -6,8 +6,8 @@
 package com.opengamma.analytics.financial.instrument.payment;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.analytics.financial.instrument.InstrumentDefinitionVisitor;

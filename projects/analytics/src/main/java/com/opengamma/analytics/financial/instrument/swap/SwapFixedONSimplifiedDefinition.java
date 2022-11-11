@@ -6,8 +6,8 @@
 package com.opengamma.analytics.financial.instrument.swap;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.instrument.annuity.AnnuityCouponFixedDefinition;
 import com.opengamma.analytics.financial.instrument.annuity.AnnuityCouponONSimplifiedDefinition;

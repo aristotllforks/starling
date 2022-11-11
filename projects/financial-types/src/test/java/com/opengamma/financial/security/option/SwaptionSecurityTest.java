@@ -10,7 +10,7 @@ import java.util.Arrays;
 
 import org.joda.beans.Bean;
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.core.link.SecurityLink;
 import com.opengamma.financial.AbstractBeanTestCase;

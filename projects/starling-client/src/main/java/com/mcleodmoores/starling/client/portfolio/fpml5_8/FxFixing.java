@@ -18,7 +18,7 @@ import org.joda.beans.impl.direct.DirectFieldsBeanBuilder;
 import org.joda.beans.impl.direct.DirectMetaBean;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * Contains the information about an FX fixing rate source for a particular currency pair on a particular date.

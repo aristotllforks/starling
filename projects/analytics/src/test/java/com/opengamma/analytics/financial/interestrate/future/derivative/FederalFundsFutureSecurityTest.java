@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.instrument.index.IndexON;
 import com.opengamma.analytics.financial.instrument.index.IndexONMaster;

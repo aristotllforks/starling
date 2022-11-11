@@ -8,7 +8,7 @@ package com.opengamma.financial.rest;
 import java.util.Collection;
 import java.util.Iterator;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 /**
  * Class for monitoring a collection of {@code AbstractRestfulJmsResultPublisher} resources and expiring those which have not been accessed recently. It is

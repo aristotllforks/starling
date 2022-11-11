@@ -15,7 +15,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.date.WorkingDayCalendar;
 import com.opengamma.analytics.financial.datasets.TestWorkingDayCalendars;

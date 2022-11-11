@@ -7,7 +7,7 @@ package com.opengamma.timeseries;
 
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.timeseries.date.localdate.ImmutableLocalDateDoubleTimeSeries;
 

@@ -10,7 +10,7 @@ import static com.opengamma.engine.value.ValueRequirementNames.BLOCK_CURVE_SENSI
 import java.util.HashSet;
 import java.util.Set;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.analytics.financial.forex.method.FXMatrix;
 import com.opengamma.analytics.financial.interestrate.InstrumentDerivative;

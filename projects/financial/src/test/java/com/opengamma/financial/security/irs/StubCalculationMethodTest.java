@@ -1,7 +1,7 @@
 package com.opengamma.financial.security.irs;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.financial.convention.StubType;

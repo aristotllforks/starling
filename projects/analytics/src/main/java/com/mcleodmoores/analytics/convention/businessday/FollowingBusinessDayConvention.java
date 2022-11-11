@@ -9,7 +9,7 @@
  */
 package com.mcleodmoores.analytics.convention.businessday;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.mcleodmoores.date.WorkingDayCalendar;
 

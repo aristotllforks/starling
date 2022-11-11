@@ -9,10 +9,10 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Clock;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Clock;
+import java.time.Period;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Lists;
 import com.opengamma.analytics.financial.model.volatility.surface.VolatilitySurface;

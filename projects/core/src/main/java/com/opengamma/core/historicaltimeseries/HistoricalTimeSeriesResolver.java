@@ -5,7 +5,7 @@
  */
 package com.opengamma.core.historicaltimeseries;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.id.ExternalIdBundle;
 import com.opengamma.util.PublicSPI;

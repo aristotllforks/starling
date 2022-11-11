@@ -5,8 +5,8 @@
  */
 package com.opengamma.financial.convention.daycount;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import com.opengamma.financial.convention.calendar.Calendar;
 import com.opengamma.util.ArgumentChecker;

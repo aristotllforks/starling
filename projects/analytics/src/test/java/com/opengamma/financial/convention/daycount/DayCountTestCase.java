@@ -8,8 +8,8 @@ package com.opengamma.financial.convention.daycount;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.util.test.TestGroup;

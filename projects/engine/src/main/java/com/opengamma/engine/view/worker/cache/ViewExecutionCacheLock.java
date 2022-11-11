@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.MapMaker;
 import com.opengamma.id.VersionCorrection;

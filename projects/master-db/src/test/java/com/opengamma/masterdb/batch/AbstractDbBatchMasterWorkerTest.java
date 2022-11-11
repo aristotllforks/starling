@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.jdbc.core.JdbcOperations;
 import org.springframework.jdbc.core.SqlParameterValue;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.DefaultComputationTargetResolver;
 import com.opengamma.id.UniqueId;

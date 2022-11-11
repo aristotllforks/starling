@@ -8,7 +8,7 @@ package com.opengamma.analytics.financial.model.interestrate;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.model.interestrate.curve.YieldAndDiscountCurve;
 import com.opengamma.analytics.financial.model.interestrate.curve.YieldCurve;

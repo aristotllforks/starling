@@ -10,7 +10,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.base.Function;
 import com.opengamma.engine.resource.EngineResourceManagerInternal;

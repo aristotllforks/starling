@@ -9,7 +9,7 @@ import static org.testng.Assert.assertEquals;
 import java.util.Collections;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalTime;
+import java.time.LocalTime;
 
 import com.opengamma.DataNotFoundException;
 import com.opengamma.OpenGammaRuntimeException;

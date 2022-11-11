@@ -9,8 +9,8 @@ import static org.testng.AssertJUnit.assertEquals;
 import static org.testng.AssertJUnit.assertFalse;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
 
 import com.opengamma.AnalyticsTestBase;
 import com.opengamma.analytics.financial.instrument.cash.CashDefinition;

@@ -5,7 +5,7 @@
  */
 package com.opengamma.engine.function;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.legalentity.LegalEntitySource;
 import com.opengamma.core.position.Portfolio;

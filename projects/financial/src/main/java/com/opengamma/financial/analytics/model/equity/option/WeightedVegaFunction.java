@@ -12,8 +12,8 @@ import java.util.Collections;
 import java.util.Map;
 import java.util.Set;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.temporal.ChronoUnit;
+import java.time.LocalDate;
+import java.time.temporal.ChronoUnit;
 
 import com.google.common.collect.Sets;
 import com.opengamma.OpenGammaRuntimeException;

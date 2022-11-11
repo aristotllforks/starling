@@ -19,7 +19,7 @@ import java.util.Map;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.DataNotFoundException;
 import com.opengamma.core.DummyWebResource;

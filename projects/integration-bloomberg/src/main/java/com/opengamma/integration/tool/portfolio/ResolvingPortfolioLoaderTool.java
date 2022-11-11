@@ -12,8 +12,8 @@ import java.io.InputStream;
 
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
-import org.threeten.bp.format.DateTimeFormatter;
-import org.threeten.bp.format.DateTimeFormatterBuilder;
+import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeFormatterBuilder;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.component.tool.AbstractTool;

@@ -11,7 +11,7 @@ package com.opengamma.core.holiday;
 
 import java.util.Collection;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.Source;
 import com.opengamma.id.ExternalId;

@@ -5,8 +5,8 @@
  */
 package com.opengamma.financial.convention.daycount;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.temporal.JulianFields;
+import java.time.LocalDate;
+import java.time.temporal.JulianFields;
 
 /**
  *

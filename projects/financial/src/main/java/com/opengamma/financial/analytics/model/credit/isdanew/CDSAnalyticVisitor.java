@@ -5,8 +5,8 @@
  */
 package com.opengamma.financial.analytics.model.credit.isdanew;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.analytics.financial.credit.isdastandardmodel.CDSAnalytic;

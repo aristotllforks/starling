@@ -7,7 +7,7 @@ package com.opengamma.financial.convention.rolldate;
 
 import org.joda.convert.FromStringFactory;
 import org.joda.convert.ToString;
-import org.threeten.bp.temporal.TemporalAdjuster;
+import java.time.temporal.TemporalAdjuster;
 
 import com.opengamma.financial.convention.NamedInstance;
 

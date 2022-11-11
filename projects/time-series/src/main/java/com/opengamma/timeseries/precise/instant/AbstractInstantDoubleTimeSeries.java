@@ -28,7 +28,7 @@ import java.util.Collection;
 import java.util.Map.Entry;
 import java.util.NoSuchElementException;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.timeseries.DoubleTimeSeries;
 import com.opengamma.timeseries.DoubleTimeSeriesOperators.BinaryOperator;

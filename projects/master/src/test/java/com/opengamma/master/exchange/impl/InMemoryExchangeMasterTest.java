@@ -9,7 +9,7 @@ import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.DataNotFoundException;
 import com.opengamma.core.id.ExternalSchemes;

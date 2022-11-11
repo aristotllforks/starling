@@ -9,8 +9,8 @@ import static org.testng.Assert.assertNull;
 
 import org.joda.beans.JodaBeanUtils;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.ZoneId;
+import java.time.Instant;
+import java.time.ZoneId;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.id.ExternalIdBundle;

@@ -5,7 +5,7 @@
  */
 package com.opengamma.analytics.financial.interestrate;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.analytics.financial.instrument.InstrumentDefinitionVisitorAdapter;
 import com.opengamma.analytics.financial.instrument.payment.CouponFixedDefinition;

@@ -7,7 +7,7 @@ package com.opengamma.timeseries.date.localdate;
 
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.timeseries.date.DateObjectTimeSeries;
 import com.opengamma.timeseries.date.DateObjectTimeSeriesBuilder;

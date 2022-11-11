@@ -9,7 +9,7 @@ import static com.opengamma.financial.convention.initializer.PerCurrencyConventi
 import static com.opengamma.financial.convention.initializer.PerCurrencyConventionHelper.getConventionName;
 import static com.opengamma.financial.convention.initializer.PerCurrencyConventionHelper.getIds;
 
-import org.threeten.bp.LocalTime;
+import java.time.LocalTime;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.financial.convention.IborIndexConvention;

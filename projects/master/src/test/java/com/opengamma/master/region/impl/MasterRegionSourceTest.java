@@ -12,8 +12,8 @@ import static org.mockito.Mockito.when;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.ZoneId;
+import java.time.Instant;
+import java.time.ZoneId;
 
 import com.opengamma.DataNotFoundException;
 import com.opengamma.core.region.Region;

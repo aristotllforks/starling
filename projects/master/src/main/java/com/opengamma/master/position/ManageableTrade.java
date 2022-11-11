@@ -24,8 +24,8 @@ import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.OffsetTime;
+import java.time.LocalDate;
+import java.time.OffsetTime;
 
 import com.google.common.collect.Maps;
 import com.opengamma.core.position.Counterparty;

@@ -17,7 +17,7 @@ import java.util.Set;
 
 import javax.ws.rs.core.UriBuilder;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.position.Portfolio;
 import com.opengamma.engine.ComputationTargetSpecification;

@@ -11,7 +11,7 @@ import static org.testng.AssertJUnit.assertEquals;
 import static org.testng.AssertJUnit.assertFalse;
 import static org.testng.AssertJUnit.assertNotNull;
 import static org.testng.AssertJUnit.assertTrue;
-import static org.threeten.bp.temporal.ChronoUnit.MINUTES;
+import static java.time.temporal.ChronoUnit.MINUTES;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -27,7 +27,7 @@ import java.util.concurrent.TimeUnit;
 import org.mockito.Mock;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.marketdata.spec.MarketData;
 import com.opengamma.engine.resource.EngineResourceReference;

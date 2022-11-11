@@ -5,8 +5,8 @@
  */
 package com.opengamma.analytics.financial.credit.isdastandardmodel;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.opengamma.analytics.math.function.Function1D;
 import com.opengamma.analytics.math.rootfinding.BracketRoot;

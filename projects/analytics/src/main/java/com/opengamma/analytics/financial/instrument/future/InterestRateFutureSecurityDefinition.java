@@ -6,8 +6,8 @@
 package com.opengamma.analytics.financial.instrument.future;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.date.CalendarAdapter;
 import com.mcleodmoores.date.WorkingDayCalendar;

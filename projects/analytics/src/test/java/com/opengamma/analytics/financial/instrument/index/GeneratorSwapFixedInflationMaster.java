@@ -8,7 +8,7 @@ package com.opengamma.analytics.financial.instrument.index;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.date.EmptyWorkingDayCalendar;
 import com.mcleodmoores.date.WorkingDayCalendar;

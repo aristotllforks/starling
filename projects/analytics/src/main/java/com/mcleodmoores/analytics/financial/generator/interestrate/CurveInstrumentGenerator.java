@@ -3,7 +3,7 @@
  */
 package com.mcleodmoores.analytics.financial.generator.interestrate;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.instrument.InstrumentDefinition;
 import com.opengamma.util.time.Tenor;

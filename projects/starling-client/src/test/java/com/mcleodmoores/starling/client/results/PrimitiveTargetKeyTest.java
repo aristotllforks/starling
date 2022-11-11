@@ -10,7 +10,7 @@ import static org.testng.Assert.assertNotNull;
 import java.math.BigDecimal;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.core.position.impl.SimplePortfolioNode;
 import com.opengamma.core.position.impl.SimplePosition;

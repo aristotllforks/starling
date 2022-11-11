@@ -5,15 +5,15 @@
  */
 package com.opengamma.util.time;
 
-import static org.threeten.bp.temporal.ChronoUnit.DAYS;
+import static java.time.temporal.ChronoUnit.DAYS;
 
 import java.io.Serializable;
 
 import org.joda.convert.FromString;
 import org.joda.convert.ToString;
-import org.threeten.bp.Duration;
-import org.threeten.bp.Period;
-import org.threeten.bp.format.DateTimeParseException;
+import java.time.Duration;
+import java.time.Period;
+import java.time.format.DateTimeParseException;
 
 import com.opengamma.util.ArgumentChecker;
 import com.opengamma.util.NamedInstance;

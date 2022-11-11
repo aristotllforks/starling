@@ -12,7 +12,7 @@ import static com.opengamma.engine.value.ValueRequirementNames.VALUE_GAMMA;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.Iterables;
 import com.google.common.collect.Sets;

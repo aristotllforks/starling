@@ -9,9 +9,9 @@
  */
 package com.mcleodmoores.analytics.convention.businessday;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.temporal.Temporal;
-import org.threeten.bp.temporal.TemporalAdjuster;
+import java.time.LocalDate;
+import java.time.temporal.Temporal;
+import java.time.temporal.TemporalAdjuster;
 
 import com.mcleodmoores.date.WorkingDayCalendar;
 import com.opengamma.util.ArgumentChecker;

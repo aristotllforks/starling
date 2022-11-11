@@ -16,7 +16,7 @@ import org.joda.beans.MetaBean;
 import org.joda.beans.MetaProperty;
 import org.joda.beans.Property;
 import org.joda.convert.StringConvert;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;

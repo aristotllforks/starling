@@ -3,7 +3,7 @@
  */
 package com.mcleodmoores.integration.adapter;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.util.ArgumentChecker;
 

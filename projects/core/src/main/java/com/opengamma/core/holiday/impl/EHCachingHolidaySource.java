@@ -11,7 +11,7 @@ import static com.opengamma.util.ehcache.EHCacheUtils.putValue;
 import java.util.Arrays;
 import java.util.Collection;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.AbstractEHCachingSource;
 import com.opengamma.core.change.ChangeEvent;

@@ -10,8 +10,8 @@ import static com.opengamma.timeseries.date.localdate.LocalDateToIntConverter.co
 import java.util.HashSet;
 import java.util.Set;
 
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
 
 import com.opengamma.financial.convention.calendar.ExceptionCalendar;
 

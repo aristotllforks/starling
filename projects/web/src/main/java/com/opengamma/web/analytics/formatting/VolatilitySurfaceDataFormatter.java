@@ -16,8 +16,8 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;

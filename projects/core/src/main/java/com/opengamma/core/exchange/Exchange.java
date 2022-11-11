@@ -5,7 +5,7 @@
  */
 package com.opengamma.core.exchange;
 
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.id.ExternalBundleIdentifiable;
 import com.opengamma.id.ExternalIdBundle;

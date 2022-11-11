@@ -3,7 +3,7 @@ package com.opengamma.analytics.financial.forex.derivative;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.util.time.TimeCalculator;
 import com.opengamma.util.money.Currency;

@@ -10,8 +10,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
 
 import com.mcleodmoores.date.FxWorkingDayCalendar;
 import com.mcleodmoores.date.LatAmFxSettlementDayCalculator;

@@ -6,7 +6,7 @@
 package com.opengamma.financial.convention.daycount;
 
 import org.apache.commons.lang.NotImplementedException;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * The 'Flat' day count.

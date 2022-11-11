@@ -9,7 +9,7 @@ import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.Sets;
 import com.opengamma.util.ArgumentChecker;

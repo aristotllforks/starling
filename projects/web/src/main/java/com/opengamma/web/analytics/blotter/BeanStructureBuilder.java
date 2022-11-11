@@ -17,7 +17,7 @@ import org.joda.beans.MetaProperty;
 import org.joda.beans.PropertyDefinition;
 import org.joda.beans.PropertyStyle;
 import org.joda.convert.StringConvert;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;

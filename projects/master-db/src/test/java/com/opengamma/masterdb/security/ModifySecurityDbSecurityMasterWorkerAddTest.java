@@ -15,7 +15,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.Factory;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.id.ExternalIdBundle;

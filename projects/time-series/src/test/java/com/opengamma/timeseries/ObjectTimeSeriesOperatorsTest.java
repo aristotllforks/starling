@@ -5,7 +5,7 @@ package com.opengamma.timeseries;
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.timeseries.date.localdate.ImmutableLocalDateObjectTimeSeries;
 

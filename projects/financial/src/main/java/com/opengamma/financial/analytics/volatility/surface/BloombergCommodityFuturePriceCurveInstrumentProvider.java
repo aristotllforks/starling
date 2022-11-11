@@ -8,7 +8,7 @@ package com.opengamma.financial.analytics.volatility.surface;
 import java.util.Map;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.Maps;
 import com.opengamma.OpenGammaRuntimeException;

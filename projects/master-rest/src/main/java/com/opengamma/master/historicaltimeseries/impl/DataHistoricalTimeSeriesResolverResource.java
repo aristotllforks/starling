@@ -19,7 +19,7 @@ import javax.ws.rs.core.Response;
 import org.fudgemsg.FudgeContext;
 import org.fudgemsg.MutableFudgeMsg;
 import org.fudgemsg.mapping.FudgeSerializer;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.MapMaker;
 import com.opengamma.id.ExternalId;

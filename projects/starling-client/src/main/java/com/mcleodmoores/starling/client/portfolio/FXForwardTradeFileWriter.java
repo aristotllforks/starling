@@ -12,7 +12,7 @@ import com.opengamma.core.position.impl.SimplePortfolio;
 import com.opengamma.util.ArgumentChecker;
 import org.apache.commons.lang.WordUtils;
 import org.joda.beans.MetaProperty;
-import org.threeten.bp.format.DateTimeFormatter;
+import java.time.format.DateTimeFormatter;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

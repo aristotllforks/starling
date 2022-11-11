@@ -7,8 +7,8 @@ package com.opengamma.financial.convention.daycount;
 
 import org.joda.convert.FromStringFactory;
 import org.joda.convert.ToString;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import com.opengamma.financial.convention.NamedInstance;
 import com.opengamma.financial.convention.calendar.Calendar;

@@ -5,9 +5,9 @@
  */
 package com.opengamma.financial.analytics.model.pnl;
 
-import org.threeten.bp.Clock;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.Clock;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.opengamma.core.historicaltimeseries.HistoricalTimeSeries;
 import com.opengamma.core.position.PositionOrTrade;

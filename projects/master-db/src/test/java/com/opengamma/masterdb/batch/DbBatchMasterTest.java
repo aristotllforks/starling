@@ -18,7 +18,7 @@ import java.util.Set;
 
 import org.testng.annotations.Factory;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.Maps;
 import com.google.common.collect.Sets;

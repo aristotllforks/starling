@@ -5,7 +5,7 @@
  */
 package com.opengamma.util.time;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 /**
  * Utilities for working with tenors.

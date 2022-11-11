@@ -15,7 +15,7 @@ import static org.testng.AssertJUnit.assertTrue;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.historicaltimeseries.HistoricalTimeSeries;
 import com.opengamma.id.VersionCorrection;

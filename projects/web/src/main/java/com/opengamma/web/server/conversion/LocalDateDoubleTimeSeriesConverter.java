@@ -8,7 +8,7 @@ package com.opengamma.web.server.conversion;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.ImmutableMap;
 import com.opengamma.engine.value.ValueSpecification;

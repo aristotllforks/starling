@@ -8,8 +8,8 @@ import static org.testng.Assert.assertEquals;
 import java.util.Collections;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.Period;
+import java.time.DayOfWeek;
+import java.time.Period;
 
 import com.mcleodmoores.quandl.QuandlConstants;
 import com.mcleodmoores.quandl.convention.ConventionTestInstances;

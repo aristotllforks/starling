@@ -7,8 +7,8 @@ package com.opengamma.bbg;
 
 import java.util.Set;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
+import java.time.LocalDate;
+import java.time.Month;
 
 import com.bloomberglp.blpapi.Name;
 import com.google.common.collect.ImmutableSet;

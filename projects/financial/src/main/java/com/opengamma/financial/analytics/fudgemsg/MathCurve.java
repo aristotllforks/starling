@@ -13,7 +13,7 @@ import org.fudgemsg.MutableFudgeMsg;
 import org.fudgemsg.mapping.FudgeBuilderFor;
 import org.fudgemsg.mapping.FudgeDeserializer;
 import org.fudgemsg.mapping.FudgeSerializer;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.analytics.math.curve.ConstantDoublesCurve;

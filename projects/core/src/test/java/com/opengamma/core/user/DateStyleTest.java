@@ -8,7 +8,7 @@ import static org.testng.Assert.assertEquals;
 import java.util.Locale;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.format.DateTimeFormatter;
+import java.time.format.DateTimeFormatter;
 
 import com.opengamma.util.test.TestGroup;
 

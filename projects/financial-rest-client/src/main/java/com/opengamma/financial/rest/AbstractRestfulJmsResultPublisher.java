@@ -16,7 +16,7 @@ import javax.ws.rs.core.Response;
 import org.fudgemsg.FudgeMsg;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.transport.jaxrs.FudgeRest;
 import com.opengamma.util.rest.AbstractDataResource;

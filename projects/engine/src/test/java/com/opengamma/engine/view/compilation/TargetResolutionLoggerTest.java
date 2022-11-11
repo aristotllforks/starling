@@ -22,7 +22,7 @@ import java.util.concurrent.ConcurrentMap;
 
 import org.mockito.Mockito;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.security.Security;
 import com.opengamma.engine.ComputationTarget;

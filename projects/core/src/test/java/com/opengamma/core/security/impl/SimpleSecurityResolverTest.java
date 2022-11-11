@@ -13,9 +13,9 @@ import java.util.Collections;
 
 import org.mockito.stubbing.OngoingStubbing;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZoneOffset;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.ZoneOffset;
 
 import com.opengamma.DataNotFoundException;
 import com.opengamma.core.security.Security;

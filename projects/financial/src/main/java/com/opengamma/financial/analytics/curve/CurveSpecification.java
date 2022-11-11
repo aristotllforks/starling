@@ -14,7 +14,7 @@ import java.util.TreeSet;
 import org.apache.commons.lang.ObjectUtils;
 import org.apache.commons.lang.builder.ToStringBuilder;
 import org.apache.commons.lang.builder.ToStringStyle;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.analytics.ircurve.strips.CurveNodeWithIdentifier;
 import com.opengamma.util.ArgumentChecker;

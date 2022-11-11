@@ -13,8 +13,8 @@ import java.util.Collection;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
+import java.time.Instant;
+import java.time.LocalDate;
 
 import com.opengamma.core.change.ChangeEvent;
 import com.opengamma.core.change.ChangeListener;

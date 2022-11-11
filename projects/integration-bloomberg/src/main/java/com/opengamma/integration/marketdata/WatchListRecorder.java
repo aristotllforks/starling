@@ -5,7 +5,7 @@
  */
 package com.opengamma.integration.marketdata;
 
-import static org.threeten.bp.temporal.ChronoUnit.DAYS;
+import static java.time.temporal.ChronoUnit.DAYS;
 
 import java.io.PrintWriter;
 import java.net.URI;
@@ -25,10 +25,10 @@ import org.apache.commons.cli.ParseException;
 import org.apache.commons.cli.PosixParser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.OffsetDateTime;
-import org.threeten.bp.ZoneOffset;
+import java.time.Instant;
+import java.time.LocalTime;
+import java.time.OffsetDateTime;
+import java.time.ZoneOffset;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Sets;

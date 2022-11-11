@@ -8,7 +8,7 @@ package com.opengamma.engine.view.worker;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.depgraph.DependencyNode;
 import com.opengamma.engine.depgraph.impl.RootDiscardingSubgrapher;

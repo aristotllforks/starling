@@ -17,7 +17,7 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Set;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.examples.simulated.loader.portfolio.ExamplesCreditPortfolioGenerator;
 import com.opengamma.analytics.financial.legalentity.LegalEntity;

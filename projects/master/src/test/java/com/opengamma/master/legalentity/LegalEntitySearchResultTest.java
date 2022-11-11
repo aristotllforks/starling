@@ -12,7 +12,7 @@ import java.util.Collection;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.id.UniqueId;

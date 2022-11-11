@@ -5,8 +5,8 @@
  */
 package com.opengamma.analytics.financial.instrument.cds;
 
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.TemporalAdjuster;
+import java.time.ZonedDateTime;
+import java.time.temporal.TemporalAdjuster;
 
 import com.opengamma.analytics.financial.credit.cds.ISDACDSDerivative;
 import com.opengamma.analytics.financial.instrument.Convention;

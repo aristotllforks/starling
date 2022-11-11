@@ -12,7 +12,7 @@ import java.util.Set;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.LocalTime;
+import java.time.LocalTime;
 
 import com.mcleodmoores.quandl.QuandlConstants;
 import com.opengamma.core.id.ExternalSchemes;

@@ -10,8 +10,8 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
+import java.time.Instant;
+import java.time.LocalDate;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.core.config.ConfigSource;

@@ -13,7 +13,7 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlRootElement;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * Represents a group of elements to indicate an fx-related expiry.

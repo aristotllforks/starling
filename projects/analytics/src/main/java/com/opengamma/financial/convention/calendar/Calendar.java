@@ -11,7 +11,7 @@ package com.opengamma.financial.convention.calendar;
 
 import org.joda.convert.FromStringFactory;
 import org.joda.convert.ToString;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.convention.NamedInstance;
 

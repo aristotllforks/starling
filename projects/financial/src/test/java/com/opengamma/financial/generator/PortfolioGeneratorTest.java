@@ -13,7 +13,7 @@ import static org.testng.Assert.assertTrue;
 import java.util.Collection;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.core.position.Counterparty;
 import com.opengamma.core.position.Portfolio;

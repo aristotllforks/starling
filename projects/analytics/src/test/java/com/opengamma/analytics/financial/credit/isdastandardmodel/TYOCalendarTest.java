@@ -7,11 +7,11 @@ package com.opengamma.analytics.financial.credit.isdastandardmodel;
 
 import static org.testng.AssertJUnit.assertFalse;
 import static org.testng.AssertJUnit.assertTrue;
-import static org.threeten.bp.Month.MARCH;
-import static org.threeten.bp.Month.SEPTEMBER;
+import static java.time.Month.MARCH;
+import static java.time.Month.SEPTEMBER;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.util.test.TestGroup;
 

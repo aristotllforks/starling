@@ -9,7 +9,7 @@ import static org.testng.AssertJUnit.assertFalse;
 import static org.testng.AssertJUnit.assertTrue;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDateTime;
+import java.time.LocalDateTime;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.Lists;

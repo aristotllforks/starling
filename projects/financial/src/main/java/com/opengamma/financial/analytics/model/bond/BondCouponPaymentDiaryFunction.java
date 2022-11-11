@@ -8,7 +8,7 @@ package com.opengamma.financial.analytics.model.bond;
 import java.util.Collections;
 import java.util.Set;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.analytics.financial.instrument.annuity.AnnuityCouponFixedDefinition;
 import com.opengamma.analytics.financial.instrument.bond.BondFixedSecurityDefinition;

@@ -30,9 +30,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.Lifecycle;
 import org.springframework.jmx.export.MBeanExporter;
-import org.threeten.bp.Duration;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.ChronoUnit;
+import java.time.Duration;
+import java.time.ZonedDateTime;
+import java.time.temporal.ChronoUnit;
 
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterables;

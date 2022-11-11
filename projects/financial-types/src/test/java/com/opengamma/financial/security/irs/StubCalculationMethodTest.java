@@ -10,7 +10,7 @@ import java.util.Arrays;
 
 import org.joda.beans.Bean;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.financial.AbstractBeanTestCase;

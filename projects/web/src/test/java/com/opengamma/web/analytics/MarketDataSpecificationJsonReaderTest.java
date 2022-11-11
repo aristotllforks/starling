@@ -11,7 +11,7 @@ import java.util.List;
 
 import org.json.JSONException;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.ImmutableList;
 import com.opengamma.engine.marketdata.spec.FixedHistoricalMarketDataSpecification;

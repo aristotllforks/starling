@@ -5,7 +5,7 @@
  */
 package com.opengamma.analytics.financial.credit;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.credit.isdastandardmodel.StubType;
 import com.opengamma.analytics.financial.credit.obligor.CreditRating;

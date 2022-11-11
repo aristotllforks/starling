@@ -9,9 +9,9 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.Comparator;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.format.DateTimeParseException;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
+import java.time.format.DateTimeParseException;
 
 import com.opengamma.core.position.Position;
 import com.opengamma.core.position.impl.SimplePositionComparator;

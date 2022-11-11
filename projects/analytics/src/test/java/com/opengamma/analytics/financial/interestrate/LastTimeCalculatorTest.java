@@ -8,7 +8,7 @@ package com.opengamma.analytics.financial.interestrate;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.analytics.financial.forex.derivative.Forex;
 import com.opengamma.analytics.financial.instrument.index.IborIndex;

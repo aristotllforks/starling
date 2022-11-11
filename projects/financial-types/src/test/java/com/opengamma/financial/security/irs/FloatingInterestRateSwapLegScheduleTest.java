@@ -6,7 +6,7 @@ package com.opengamma.financial.security.irs;
 import java.util.Arrays;
 
 import org.joda.beans.Bean;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.AbstractBeanTestCase;
 import com.opengamma.financial.convention.FloatingInterestRateSwapLegConvention;

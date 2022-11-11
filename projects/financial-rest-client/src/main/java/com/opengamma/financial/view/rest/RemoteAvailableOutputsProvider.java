@@ -8,7 +8,7 @@ package com.opengamma.financial.view.rest;
 import java.net.URI;
 
 import org.fudgemsg.FudgeContext;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.position.Portfolio;
 import com.opengamma.engine.view.helper.AvailableOutputs;

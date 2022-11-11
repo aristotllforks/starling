@@ -12,9 +12,9 @@ import java.util.List;
 import java.util.Map.Entry;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
+import java.time.Month;
 
 import com.opengamma.financial.convention.calendar.Calendar;
 import com.opengamma.financial.convention.calendar.MondayToFridayCalendar;

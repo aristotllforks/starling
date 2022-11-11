@@ -18,7 +18,7 @@ import javax.xml.stream.XMLOutputFactory;
 import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.XMLStreamWriter;
 
-import org.threeten.bp.LocalDateTime;
+import java.time.LocalDateTime;
 
 import com.opengamma.OpenGammaRuntimeException;
 

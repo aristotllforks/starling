@@ -36,7 +36,7 @@ import java.util.concurrent.ExecutionException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.Lifecycle;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.bloomberglp.blpapi.Datetime;
 import com.bloomberglp.blpapi.Element;

@@ -16,7 +16,7 @@ import static com.opengamma.masterdb.security.hibernate.Converters.validateDayCo
 import static com.opengamma.masterdb.security.hibernate.Converters.validateFrequency;
 import static com.opengamma.masterdb.security.hibernate.Converters.zonedDateTimeBeanToDateTimeWithZone;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.financial.convention.daycount.DayCount;
 import com.opengamma.financial.convention.frequency.Frequency;

@@ -13,10 +13,10 @@ import static com.opengamma.financial.security.lookup.SecurityAttribute.TYPE;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDateTime;
+import java.time.ZoneId;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.ImmutableSet;
 import com.opengamma.financial.currency.CurrencyPair;

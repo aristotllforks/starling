@@ -7,7 +7,7 @@ import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertNotEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.mcleodmoores.starling.client.portfolio.fpml5_8.PartyTradeIdentifier;
 import com.mcleodmoores.starling.client.portfolio.fpml5_8.TradeHeader;

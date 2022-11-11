@@ -10,7 +10,7 @@ import static org.testng.AssertJUnit.assertEquals;
 import java.util.Collections;
 import java.util.Set;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.greeks.Greek;
 import com.opengamma.analytics.financial.greeks.GreekResultCollection;

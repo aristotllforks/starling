@@ -21,8 +21,8 @@ import org.joda.beans.impl.direct.DirectBeanBuilder;
 import org.joda.beans.impl.direct.DirectMetaBean;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
+import java.time.Instant;
+import java.time.LocalDate;
 
 import com.opengamma.batch.domain.BatchError;
 import com.opengamma.engine.ComputationTargetSpecification;

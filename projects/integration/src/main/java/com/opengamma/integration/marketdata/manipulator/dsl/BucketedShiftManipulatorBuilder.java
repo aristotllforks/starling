@@ -7,7 +7,7 @@ package com.opengamma.integration.marketdata.manipulator.dsl;
 
 import java.util.List;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;

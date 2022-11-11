@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalTime;
+import java.time.LocalTime;
 
 import com.google.common.collect.Sets;
 import com.opengamma.core.convention.ConventionSource;

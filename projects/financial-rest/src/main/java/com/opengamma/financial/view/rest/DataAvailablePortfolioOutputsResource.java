@@ -16,7 +16,7 @@ import javax.ws.rs.core.Response;
 import org.fudgemsg.FudgeContext;
 import org.fudgemsg.FudgeMsg;
 import org.fudgemsg.mapping.FudgeSerializer;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.DataNotFoundException;
 import com.opengamma.core.position.Portfolio;

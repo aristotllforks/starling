@@ -6,7 +6,7 @@ package com.mcleodmoores.financial.function.trade;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.analytics.financial.instrument.annuity.AnnuityCouponFixedDefinition;
 import com.opengamma.analytics.financial.instrument.payment.CouponFixedDefinition;

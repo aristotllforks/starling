@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 import org.joda.beans.Bean;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.id.UniqueId;
 import com.opengamma.master.exchange.ExchangeDocument;

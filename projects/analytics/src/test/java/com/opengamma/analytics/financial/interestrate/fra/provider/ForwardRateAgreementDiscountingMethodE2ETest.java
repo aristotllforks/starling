@@ -10,7 +10,7 @@ import static org.testng.AssertJUnit.assertEquals;
 import java.util.LinkedHashMap;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.date.CalendarAdapter;
 import com.mcleodmoores.date.WorkingDayCalendar;

@@ -11,8 +11,8 @@ import org.joda.beans.JodaBeanUtils;
 import org.testng.AssertJUnit;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.OffsetTime;
+import java.time.LocalDate;
+import java.time.OffsetTime;
 
 import com.opengamma.DataNotFoundException;
 import com.opengamma.id.ExternalId;

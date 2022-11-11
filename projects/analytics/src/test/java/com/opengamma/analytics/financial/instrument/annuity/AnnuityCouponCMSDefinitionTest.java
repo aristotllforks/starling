@@ -8,8 +8,8 @@ package com.opengamma.analytics.financial.instrument.annuity;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.instrument.index.IborIndex;
 import com.opengamma.analytics.financial.instrument.index.IndexSwap;

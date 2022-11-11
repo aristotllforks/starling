@@ -3,8 +3,8 @@
  */
 package com.mcleodmoores.analytics.financial.generator.interestrate;
 
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.analytics.financial.index.IborTypeIndex;
 import com.mcleodmoores.date.CalendarAdapter;

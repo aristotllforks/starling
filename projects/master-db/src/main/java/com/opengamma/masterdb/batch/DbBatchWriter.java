@@ -42,7 +42,7 @@ import org.springframework.jdbc.core.namedparam.SqlParameterSource;
 import org.springframework.orm.hibernate5.HibernateCallback;
 import org.springframework.transaction.TransactionStatus;
 import org.springframework.transaction.support.TransactionCallback;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.ImmutableSet;

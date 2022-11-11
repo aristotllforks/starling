@@ -8,8 +8,8 @@ package com.opengamma.integration.copier.portfolio;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.util.StringUtils;
-import org.threeten.bp.Instant;
-import org.threeten.bp.temporal.ChronoUnit;
+import java.time.Instant;
+import java.time.temporal.ChronoUnit;
 
 import com.opengamma.integration.copier.portfolio.reader.PositionReader;
 import com.opengamma.integration.copier.portfolio.writer.PositionWriter;

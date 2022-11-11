@@ -13,8 +13,8 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
-import org.threeten.bp.Clock;
-import org.threeten.bp.LocalDate;
+import java.time.Clock;
+import java.time.LocalDate;
 
 /**
  * A {@link BloombergReferenceDataStatistics} which stores statistics for several days into the past.

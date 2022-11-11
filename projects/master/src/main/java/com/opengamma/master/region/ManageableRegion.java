@@ -23,7 +23,7 @@ import org.joda.beans.impl.direct.DirectMetaBean;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
 import org.joda.beans.impl.flexi.FlexiBean;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.core.region.Region;

@@ -5,8 +5,8 @@
  */
 package com.opengamma.financial.analytics.curve.credit;
 
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
+import java.time.Instant;
+import java.time.LocalDate;
 
 import com.opengamma.financial.analytics.curve.AbstractCurveDefinition;
 import com.opengamma.financial.analytics.curve.AbstractCurveSpecification;

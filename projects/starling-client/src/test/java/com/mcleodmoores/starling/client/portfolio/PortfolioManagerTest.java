@@ -12,8 +12,8 @@ import org.joda.beans.JodaBeanUtils;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
+import java.time.Instant;
+import java.time.LocalDate;
 
 import com.mcleodmoores.starling.client.utils.TestUtils;
 import com.opengamma.DataNotFoundException;

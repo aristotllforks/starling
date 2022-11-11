@@ -5,7 +5,7 @@
  */
 package com.opengamma.core.change;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.id.ObjectId;
 

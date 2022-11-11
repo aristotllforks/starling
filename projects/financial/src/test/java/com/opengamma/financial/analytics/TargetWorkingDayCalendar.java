@@ -6,8 +6,8 @@ package com.opengamma.financial.analytics;
 import java.util.Collection;
 import java.util.HashSet;
 
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
 
 import com.mcleodmoores.date.SimpleWorkingDayCalendar;
 import com.mcleodmoores.date.WorkingDayCalendar;

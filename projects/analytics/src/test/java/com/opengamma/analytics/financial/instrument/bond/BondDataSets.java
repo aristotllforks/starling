@@ -5,8 +5,8 @@
  */
 package com.opengamma.analytics.financial.instrument.bond;
 
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.datasets.CalendarGBP;
 import com.opengamma.analytics.financial.provider.description.IssuerProviderDiscountDataSets;

@@ -6,7 +6,7 @@ package com.mcleodmoores.examples.simulated.loader.holiday;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.component.tool.AbstractTool;
 import com.opengamma.core.holiday.HolidayType;

@@ -7,14 +7,14 @@ package com.opengamma.id;
 
 import static org.testng.AssertJUnit.assertNotNull;
 import static org.testng.AssertJUnit.assertNull;
-import static org.threeten.bp.Month.DECEMBER;
-import static org.threeten.bp.Month.JANUARY;
+import static java.time.Month.DECEMBER;
+import static java.time.Month.JANUARY;
 
 import org.fudgemsg.FudgeMsg;
 import org.fudgemsg.mapping.FudgeDeserializer;
 import org.fudgemsg.mapping.FudgeSerializer;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.util.fudgemsg.OpenGammaFudgeContext;
 import com.opengamma.util.test.AbstractFudgeBuilderTestCase;

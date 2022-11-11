@@ -17,8 +17,8 @@ import java.util.HashSet;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZoneOffset;
+import java.time.LocalDate;
+import java.time.ZoneOffset;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.id.ExternalIdBundle;

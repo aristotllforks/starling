@@ -25,7 +25,7 @@ import org.joda.beans.JodaBeanUtils;
 import org.joda.beans.MetaProperty;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.ImmutableMap;
 import com.opengamma.core.security.SecuritySource;

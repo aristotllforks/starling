@@ -6,7 +6,7 @@
 package com.opengamma.examples.simulated.volatility.surface;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.core.id.ExternalSchemes;

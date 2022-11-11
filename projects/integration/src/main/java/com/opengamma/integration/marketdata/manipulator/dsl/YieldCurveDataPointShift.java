@@ -21,7 +21,7 @@ import org.joda.beans.impl.direct.DirectFieldsBeanBuilder;
 import org.joda.beans.impl.direct.DirectMetaBean;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 /**
  * Applies a point shift to a {@link com.opengamma.analytics.financial.model.interestrate.curve.YieldAndDiscountCurve}.

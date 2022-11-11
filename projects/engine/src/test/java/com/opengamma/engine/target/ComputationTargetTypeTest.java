@@ -12,7 +12,7 @@ import static org.testng.Assert.assertTrue;
 import java.math.BigDecimal;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.OffsetDateTime;
+import java.time.OffsetDateTime;
 
 import com.opengamma.core.historicaltimeseries.HistoricalTimeSeries;
 import com.opengamma.core.position.Position;

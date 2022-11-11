@@ -7,8 +7,8 @@ package com.opengamma.financial.convention.daycount;
 
 import org.apache.commons.lang.NotImplementedException;
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 /**
  * The '30E/360 ISDA' day count.

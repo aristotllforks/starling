@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.convention.daycount;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * The '30E+/360 ISDA' day count.

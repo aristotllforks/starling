@@ -5,7 +5,7 @@ package com.mcleodmoores.analytics.financial.generator.interestrate;
 
 import java.util.Objects;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.analytics.financial.index.OvernightIndex;
 import com.mcleodmoores.date.CalendarAdapter;

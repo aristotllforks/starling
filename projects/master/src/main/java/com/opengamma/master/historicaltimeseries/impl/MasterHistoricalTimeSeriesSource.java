@@ -11,8 +11,8 @@ import java.util.Set;
 import org.apache.commons.lang.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Clock;
-import org.threeten.bp.LocalDate;
+import java.time.Clock;
+import java.time.LocalDate;
 
 import com.google.common.collect.Maps;
 import com.opengamma.DataNotFoundException;

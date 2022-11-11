@@ -4,7 +4,7 @@
  * Please see distribution for license.
  */
 
-import org.threeten.bp.LocalDate
+import java.time.LocalDate
 
 aString = "foo"
 aList = [1, 2, 3]

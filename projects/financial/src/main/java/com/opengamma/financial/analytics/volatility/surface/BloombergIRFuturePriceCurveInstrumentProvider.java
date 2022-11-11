@@ -8,7 +8,7 @@ package com.opengamma.financial.analytics.volatility.surface;
 import java.text.DecimalFormat;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.financial.convention.expirycalc.ExchangeTradedInstrumentExpiryCalculator;

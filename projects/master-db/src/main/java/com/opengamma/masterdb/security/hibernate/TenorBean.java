@@ -5,8 +5,8 @@
  */
 package com.opengamma.masterdb.security.hibernate;
 
-import org.threeten.bp.Period;
-import org.threeten.bp.format.DateTimeParseException;
+import java.time.Period;
+import java.time.format.DateTimeParseException;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.util.time.Tenor;

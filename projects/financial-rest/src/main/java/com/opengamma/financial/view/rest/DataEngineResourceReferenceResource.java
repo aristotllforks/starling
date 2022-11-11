@@ -11,7 +11,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.core.Response;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.resource.EngineResourceReference;
 import com.opengamma.id.UniqueIdentifiable;

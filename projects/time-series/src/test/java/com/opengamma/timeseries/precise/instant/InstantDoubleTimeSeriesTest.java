@@ -5,9 +5,9 @@
  */
 package com.opengamma.timeseries.precise.instant;
 
-import org.threeten.bp.Instant;
-import org.threeten.bp.OffsetDateTime;
-import org.threeten.bp.ZoneOffset;
+import java.time.Instant;
+import java.time.OffsetDateTime;
+import java.time.ZoneOffset;
 
 import com.opengamma.timeseries.DoubleTimeSeriesTest;
 

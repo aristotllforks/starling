@@ -9,7 +9,7 @@ import static com.opengamma.engine.value.ValueRequirementNames.FX_CURRENCY_EXPOS
 
 import java.util.Set;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.Sets;
 import com.opengamma.analytics.financial.forex.method.FXMatrix;

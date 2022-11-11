@@ -20,7 +20,7 @@ import javax.ws.rs.core.Response;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.batch.BatchMaster;
 import com.opengamma.batch.domain.CalculationConfiguration;

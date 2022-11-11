@@ -20,8 +20,8 @@ import javax.ws.rs.Path;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.commons.lang.SystemUtils;
-import org.threeten.bp.Duration;
-import org.threeten.bp.ZoneId;
+import java.time.Duration;
+import java.time.ZoneId;
 
 import com.opengamma.util.ArgumentChecker;
 import com.opengamma.util.ClasspathUtils;

@@ -17,7 +17,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.depgraph.DependencyGraph;
 import com.opengamma.engine.marketdata.spec.MarketData;

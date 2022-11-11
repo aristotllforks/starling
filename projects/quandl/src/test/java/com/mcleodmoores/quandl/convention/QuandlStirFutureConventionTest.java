@@ -4,7 +4,7 @@
 package com.mcleodmoores.quandl.convention;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
+import java.time.DayOfWeek;
 
 import com.mcleodmoores.quandl.QuandlConstants;
 import com.opengamma.core.id.ExternalSchemes;

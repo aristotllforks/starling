@@ -11,7 +11,7 @@ import java.util.Map;
 
 import org.joda.beans.Bean;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.BiMap;
 import com.google.common.collect.HashBiMap;

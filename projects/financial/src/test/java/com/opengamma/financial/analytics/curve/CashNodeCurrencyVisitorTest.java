@@ -9,8 +9,8 @@ import static org.testng.Assert.assertEquals;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.Period;
+import java.time.LocalTime;
+import java.time.Period;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.core.convention.ConventionSource;

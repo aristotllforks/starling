@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Set;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.Iterables;
 import com.opengamma.OpenGammaRuntimeException;

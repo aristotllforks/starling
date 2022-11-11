@@ -8,8 +8,8 @@ import java.util.Collections;
 import java.util.Objects;
 import java.util.TreeSet;
 
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
 
 import com.opengamma.util.ArgumentChecker;
 

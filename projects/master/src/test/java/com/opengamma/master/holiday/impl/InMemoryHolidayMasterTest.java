@@ -11,7 +11,7 @@ import java.util.Collections;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.DataNotFoundException;
 import com.opengamma.id.UniqueId;

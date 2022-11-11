@@ -13,7 +13,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.ImmutableSet;
 import com.opengamma.engine.ComputationTargetSpecification;

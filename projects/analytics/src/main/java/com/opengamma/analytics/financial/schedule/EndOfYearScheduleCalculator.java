@@ -8,10 +8,10 @@ package com.opengamma.analytics.financial.schedule;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.TemporalAdjusters;
+import java.time.LocalDate;
+import java.time.Month;
+import java.time.ZonedDateTime;
+import java.time.temporal.TemporalAdjusters;
 
 import com.opengamma.util.ArgumentChecker;
 

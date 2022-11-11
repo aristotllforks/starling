@@ -5,8 +5,8 @@
  */
 package com.opengamma.timeseries;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
+import java.time.LocalDate;
+import java.time.Month;
 
 /**
  * Test LocalDateDoubleTimeSeries.

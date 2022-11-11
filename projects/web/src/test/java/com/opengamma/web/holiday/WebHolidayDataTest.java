@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 import org.joda.beans.Bean;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.holiday.HolidayType;
 import com.opengamma.id.UniqueId;

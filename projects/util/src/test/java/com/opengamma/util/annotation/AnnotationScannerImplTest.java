@@ -12,8 +12,8 @@ import java.util.Arrays;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.temporal.ChronoUnit;
+import java.time.Instant;
+import java.time.temporal.ChronoUnit;
 
 import com.opengamma.util.test.TestGroup;
 

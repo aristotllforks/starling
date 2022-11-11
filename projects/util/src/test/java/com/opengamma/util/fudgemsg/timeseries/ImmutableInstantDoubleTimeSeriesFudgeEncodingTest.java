@@ -9,7 +9,7 @@ import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.timeseries.DoubleTimeSeries;
 import com.opengamma.timeseries.precise.PreciseDoubleTimeSeries;

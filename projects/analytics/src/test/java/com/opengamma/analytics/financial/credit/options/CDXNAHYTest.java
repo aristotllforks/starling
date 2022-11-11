@@ -21,8 +21,8 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.opengamma.analytics.financial.credit.index.CDSIndexCalculator;
 import com.opengamma.analytics.financial.credit.index.IntrinsicIndexDataBundle;

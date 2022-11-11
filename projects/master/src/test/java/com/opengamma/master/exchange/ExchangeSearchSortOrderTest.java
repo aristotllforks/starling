@@ -11,7 +11,7 @@ import java.util.List;
 
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.id.UniqueId;
 import com.opengamma.util.test.TestGroup;

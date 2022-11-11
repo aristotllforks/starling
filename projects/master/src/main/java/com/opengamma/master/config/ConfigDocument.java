@@ -17,7 +17,7 @@ import org.joda.beans.PropertyDefinition;
 import org.joda.beans.impl.direct.DirectBeanBuilder;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.config.impl.ConfigItem;
 import com.opengamma.id.ObjectId;

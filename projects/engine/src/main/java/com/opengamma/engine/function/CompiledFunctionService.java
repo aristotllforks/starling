@@ -16,7 +16,7 @@ import java.util.concurrent.Callable;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.Lifecycle;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.Maps;
 import com.opengamma.OpenGammaRuntimeException;

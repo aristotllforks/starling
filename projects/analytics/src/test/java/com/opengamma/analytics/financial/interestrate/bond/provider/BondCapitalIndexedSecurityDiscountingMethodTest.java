@@ -8,9 +8,9 @@ package com.opengamma.analytics.financial.interestrate.bond.provider;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.TemporalAdjusters;
+import java.time.Period;
+import java.time.ZonedDateTime;
+import java.time.temporal.TemporalAdjusters;
 
 import com.mcleodmoores.date.CalendarAdapter;
 import com.mcleodmoores.date.WeekendWorkingDayCalendar;

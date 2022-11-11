@@ -12,7 +12,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.mcleodmoores.quandl.QuandlConstants;
 import com.opengamma.core.historicaltimeseries.HistoricalTimeSeries;

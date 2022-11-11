@@ -13,7 +13,7 @@ import java.util.Collections;
 
 import org.mockito.Mockito;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.change.ChangeListener;
 import com.opengamma.core.change.ChangeManager;

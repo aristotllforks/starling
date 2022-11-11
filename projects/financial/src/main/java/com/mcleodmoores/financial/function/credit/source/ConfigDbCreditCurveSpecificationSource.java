@@ -6,7 +6,7 @@ package com.mcleodmoores.financial.function.credit.source;
 import java.util.Collection;
 import java.util.HashSet;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.mcleodmoores.financial.function.credit.configs.CreditCurveDefinition;
 import com.mcleodmoores.financial.function.credit.configs.CreditCurveSpecification;

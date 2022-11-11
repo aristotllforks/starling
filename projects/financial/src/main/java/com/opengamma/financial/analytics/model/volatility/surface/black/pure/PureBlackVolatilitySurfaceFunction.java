@@ -19,8 +19,8 @@ import static com.opengamma.financial.analytics.volatility.surface.SurfaceAndCub
 import java.util.Collections;
 import java.util.Set;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Iterables;
 import com.google.common.collect.Sets;

@@ -7,8 +7,8 @@ package com.opengamma.examples.simulated.generator;
 
 import java.math.BigDecimal;
 
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.core.position.Counterparty;

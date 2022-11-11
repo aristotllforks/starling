@@ -5,7 +5,7 @@
  */
 package com.opengamma.analytics.financial.credit.collateralmodel;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.credit.obligor.definition.Obligor;
 import com.opengamma.util.ArgumentChecker;

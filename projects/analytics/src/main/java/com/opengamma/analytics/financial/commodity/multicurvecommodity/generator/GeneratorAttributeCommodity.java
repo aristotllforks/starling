@@ -5,7 +5,7 @@
  */
 package com.opengamma.analytics.financial.commodity.multicurvecommodity.generator;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.analytics.financial.instrument.index.GeneratorAttribute;
 

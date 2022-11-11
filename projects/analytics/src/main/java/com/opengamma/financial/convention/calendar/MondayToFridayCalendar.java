@@ -9,8 +9,8 @@
  */
 package com.opengamma.financial.convention.calendar;
 
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
 
 /**
  * A working day calendar based on a Monday to Friday working week.

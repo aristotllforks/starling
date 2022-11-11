@@ -8,9 +8,9 @@ package com.opengamma.financial.analytics.conversion;
 import java.util.Set;
 
 import org.apache.commons.lang.NotImplementedException;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Sets;
 import com.opengamma.OpenGammaRuntimeException;

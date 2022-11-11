@@ -17,7 +17,7 @@ import javax.ws.rs.core.UriInfo;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.id.ExternalIdBundle;
 import com.opengamma.id.ObjectId;

@@ -15,7 +15,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.Factory;
 import org.testng.annotations.Test;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.google.common.collect.ImmutableList;
 import com.opengamma.DataDuplicationException;

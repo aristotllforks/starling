@@ -5,7 +5,7 @@
  */
 package com.opengamma.master.historicaltimeseries.impl;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.id.ObjectIdentifiable;
 import com.opengamma.id.UniqueId;

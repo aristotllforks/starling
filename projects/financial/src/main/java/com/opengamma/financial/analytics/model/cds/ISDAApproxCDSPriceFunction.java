@@ -8,8 +8,8 @@ package com.opengamma.financial.analytics.model.cds;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.TemporalAdjuster;
+import java.time.ZonedDateTime;
+import java.time.temporal.TemporalAdjuster;
 
 import com.opengamma.analytics.financial.instrument.Convention;
 import com.opengamma.engine.ComputationTarget;

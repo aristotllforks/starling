@@ -6,7 +6,7 @@
 package com.opengamma.analytics.financial.model.option.pricing.analytic;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.model.option.definition.EuropeanOptionOnEuropeanVanillaOptionDefinition;
 import com.opengamma.analytics.financial.model.option.definition.EuropeanVanillaOptionDefinition;

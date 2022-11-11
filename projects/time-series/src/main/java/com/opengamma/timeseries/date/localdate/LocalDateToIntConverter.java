@@ -5,7 +5,7 @@
  */
 package com.opengamma.timeseries.date.localdate;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * An encoder between {@code LocalDate} and {@code int}.

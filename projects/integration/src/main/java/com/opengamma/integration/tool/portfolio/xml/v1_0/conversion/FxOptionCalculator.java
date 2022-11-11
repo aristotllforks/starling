@@ -8,8 +8,8 @@ package com.opengamma.integration.tool.portfolio.xml.v1_0.conversion;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.opengamma.financial.currency.CurrencyPair;
 import com.opengamma.financial.security.option.OptionType;

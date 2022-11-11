@@ -9,8 +9,8 @@ import java.util.Collections;
 import java.util.Map;
 import java.util.Set;
 
-import org.threeten.bp.Instant;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Instant;
+import java.time.ZonedDateTime;
 
 import com.opengamma.engine.ComputationTarget;
 import com.opengamma.engine.value.ValueProperties;

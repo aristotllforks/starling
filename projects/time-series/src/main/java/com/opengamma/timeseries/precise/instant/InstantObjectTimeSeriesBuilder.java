@@ -7,7 +7,7 @@ package com.opengamma.timeseries.precise.instant;
 
 import java.util.Map;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.timeseries.precise.PreciseObjectTimeSeries;
 import com.opengamma.timeseries.precise.PreciseObjectTimeSeriesBuilder;

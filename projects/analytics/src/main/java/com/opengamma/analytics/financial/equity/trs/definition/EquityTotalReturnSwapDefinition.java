@@ -6,7 +6,7 @@
 package com.opengamma.analytics.financial.equity.trs.definition;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.equity.Equity;
 import com.opengamma.analytics.financial.equity.EquityDefinition;

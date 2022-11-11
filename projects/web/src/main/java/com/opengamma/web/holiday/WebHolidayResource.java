@@ -31,8 +31,8 @@ import javax.ws.rs.core.Response.Status;
 import org.apache.commons.lang.StringEscapeUtils;
 import org.apache.commons.lang.StringUtils;
 import org.joda.beans.impl.flexi.FlexiBean;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Year;
+import java.time.LocalDate;
+import java.time.Year;
 
 import com.opengamma.core.holiday.WeekendType;
 import com.opengamma.core.holiday.WeekendTypeProvider;

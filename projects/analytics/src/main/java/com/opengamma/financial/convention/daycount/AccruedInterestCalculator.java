@@ -8,9 +8,9 @@ package com.opengamma.financial.convention.daycount;
 import java.util.Arrays;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.opengamma.financial.convention.StubCalculator;
 import com.opengamma.financial.convention.StubType;

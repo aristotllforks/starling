@@ -11,7 +11,7 @@ import java.util.Arrays;
 import org.fudgemsg.FudgeRuntimeContextException;
 import org.joda.beans.Bean;
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.mcleodmoores.date.CalendarAdapter;
 import com.mcleodmoores.date.WeekendWorkingDayCalendar;

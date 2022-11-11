@@ -6,7 +6,7 @@
 package com.opengamma.analytics.financial.forex.definition;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.forex.derivative.Forex;
 import com.opengamma.analytics.financial.forex.derivative.ForexSwap;

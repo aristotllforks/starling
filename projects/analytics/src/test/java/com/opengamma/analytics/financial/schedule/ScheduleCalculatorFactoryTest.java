@@ -8,8 +8,8 @@ package com.opengamma.analytics.financial.schedule;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.Month;
+import java.time.DayOfWeek;
+import java.time.Month;
 
 import com.opengamma.util.test.TestGroup;
 

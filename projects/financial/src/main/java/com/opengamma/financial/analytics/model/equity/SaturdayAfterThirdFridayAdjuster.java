@@ -5,12 +5,12 @@
  */
 package com.opengamma.financial.analytics.model.equity;
 
-import static org.threeten.bp.temporal.ChronoUnit.DAYS;
+import static java.time.temporal.ChronoUnit.DAYS;
 
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.temporal.Temporal;
-import org.threeten.bp.temporal.TemporalAdjuster;
-import org.threeten.bp.temporal.TemporalAdjusters;
+import java.time.DayOfWeek;
+import java.time.temporal.Temporal;
+import java.time.temporal.TemporalAdjuster;
+import java.time.temporal.TemporalAdjusters;
 
 /**
  * {@code DatAdjuster} that finds the Saturday immediately following the 3rd Friday of the date's month.

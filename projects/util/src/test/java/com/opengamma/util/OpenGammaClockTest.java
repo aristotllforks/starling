@@ -6,7 +6,7 @@ package com.opengamma.util;
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZoneOffset;
+import java.time.ZoneOffset;
 
 /**
  * Tests for {@link OpenGammaClock}.

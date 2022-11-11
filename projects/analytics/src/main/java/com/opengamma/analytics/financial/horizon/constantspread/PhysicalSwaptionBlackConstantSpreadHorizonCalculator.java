@@ -5,7 +5,7 @@
  */
 package com.opengamma.analytics.financial.horizon.constantspread;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.horizon.HorizonCalculator;
 import com.opengamma.analytics.financial.horizon.rolldown.SwaptionBlackDataConstantSpreadRolldown;

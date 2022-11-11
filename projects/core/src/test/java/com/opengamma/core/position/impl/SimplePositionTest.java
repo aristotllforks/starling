@@ -14,7 +14,7 @@ import static org.testng.AssertJUnit.assertTrue;
 import java.math.BigDecimal;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.OffsetDateTime;
+import java.time.OffsetDateTime;
 
 import com.google.common.collect.Lists;
 import com.opengamma.core.position.Counterparty;

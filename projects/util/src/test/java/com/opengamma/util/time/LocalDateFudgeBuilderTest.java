@@ -6,7 +6,7 @@ package com.opengamma.util.time;
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.util.test.AbstractFudgeBuilderTestCase;
 import com.opengamma.util.test.TestGroup;

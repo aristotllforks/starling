@@ -5,7 +5,7 @@
  */
 package com.opengamma.analytics.financial.instrument;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.interestrate.InstrumentDerivative;
 

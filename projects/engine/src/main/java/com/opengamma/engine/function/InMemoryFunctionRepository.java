@@ -13,7 +13,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.view.ViewProcessor;
 import com.opengamma.util.ArgumentChecker;

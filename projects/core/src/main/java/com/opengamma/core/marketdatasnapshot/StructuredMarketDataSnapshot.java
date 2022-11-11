@@ -7,7 +7,7 @@ package com.opengamma.core.marketdatasnapshot;
 
 import java.util.Map;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.util.PublicSPI;
 

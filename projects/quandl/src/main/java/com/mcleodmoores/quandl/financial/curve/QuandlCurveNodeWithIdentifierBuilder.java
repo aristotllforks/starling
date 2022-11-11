@@ -5,7 +5,7 @@ package com.mcleodmoores.quandl.financial.curve;
 
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.mcleodmoores.quandl.future.QuandlFedFundsFutureCurveInstrumentProvider;
 import com.opengamma.financial.analytics.curve.CurveNodeIdMapper;

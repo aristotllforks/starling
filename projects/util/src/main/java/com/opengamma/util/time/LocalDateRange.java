@@ -23,8 +23,8 @@ import org.joda.beans.impl.direct.DirectMetaBean;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
 import org.joda.beans.impl.direct.DirectPrivateBeanBuilder;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.temporal.TemporalAdjuster;
+import java.time.LocalDate;
+import java.time.temporal.TemporalAdjuster;
 
 import com.opengamma.util.ArgumentChecker;
 

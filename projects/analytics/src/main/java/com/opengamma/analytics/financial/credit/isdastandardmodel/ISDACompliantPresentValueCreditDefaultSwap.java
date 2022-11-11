@@ -8,8 +8,8 @@ package com.opengamma.analytics.financial.credit.isdastandardmodel;
 import static com.opengamma.analytics.financial.credit.isdastandardmodel.ISDACompliantScheduleGenerator.getIntegrationNodesAsDates;
 import static com.opengamma.analytics.financial.credit.isdastandardmodel.ISDACompliantScheduleGenerator.truncateList;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.opengamma.analytics.math.MathException;
 import com.opengamma.financial.convention.businessday.BusinessDayConvention;

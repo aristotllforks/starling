@@ -23,7 +23,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.codahale.metrics.MetricRegistry;
 import com.codahale.metrics.Timer;

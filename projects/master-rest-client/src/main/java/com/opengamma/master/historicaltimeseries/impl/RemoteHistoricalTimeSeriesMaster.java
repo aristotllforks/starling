@@ -9,7 +9,7 @@ package com.opengamma.master.historicaltimeseries.impl;
 import java.net.URI;
 import java.util.List;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.change.ChangeManager;
 import com.opengamma.id.ObjectIdentifiable;

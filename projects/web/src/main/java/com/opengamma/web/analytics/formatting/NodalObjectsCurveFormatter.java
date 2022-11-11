@@ -14,7 +14,7 @@ import java.util.List;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.temporal.ChronoUnit;
+import java.time.temporal.ChronoUnit;
 
 import com.opengamma.analytics.math.curve.NodalObjectsCurve;
 import com.opengamma.engine.value.ValueSpecification;

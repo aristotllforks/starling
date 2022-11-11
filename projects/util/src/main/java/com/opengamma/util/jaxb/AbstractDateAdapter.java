@@ -7,9 +7,9 @@ package com.opengamma.util.jaxb;
 
 import javax.xml.bind.annotation.adapters.XmlAdapter;
 
-import org.threeten.bp.format.DateTimeFormatter;
-import org.threeten.bp.format.DateTimeFormatterBuilder;
-import org.threeten.bp.temporal.TemporalAccessor;
+import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeFormatterBuilder;
+import java.time.temporal.TemporalAccessor;
 
 /**
  * Abstract date XML adapter.

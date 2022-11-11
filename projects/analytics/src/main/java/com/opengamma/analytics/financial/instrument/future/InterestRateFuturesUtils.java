@@ -8,11 +8,11 @@ package com.opengamma.analytics.financial.instrument.future;
 import java.util.EnumSet;
 import java.util.Set;
 
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.Month;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.TemporalAdjuster;
-import org.threeten.bp.temporal.TemporalAdjusters;
+import java.time.DayOfWeek;
+import java.time.Month;
+import java.time.ZonedDateTime;
+import java.time.temporal.TemporalAdjuster;
+import java.time.temporal.TemporalAdjusters;
 
 import com.opengamma.util.ArgumentChecker;
 

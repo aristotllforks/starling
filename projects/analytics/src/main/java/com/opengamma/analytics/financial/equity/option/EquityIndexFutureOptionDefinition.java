@@ -6,7 +6,7 @@
 package com.opengamma.analytics.financial.equity.option;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.ExerciseDecisionType;
 import com.opengamma.analytics.financial.equity.future.definition.IndexFutureDefinition;

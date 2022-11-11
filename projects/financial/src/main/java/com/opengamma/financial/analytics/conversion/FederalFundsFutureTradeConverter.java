@@ -5,10 +5,10 @@
  */
 package com.opengamma.financial.analytics.conversion;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.OffsetTime;
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.OffsetTime;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.analytics.financial.instrument.InstrumentDefinitionWithData;

@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 /**
  * Gatherer that maintains ever increasing totals of the reported metrics.

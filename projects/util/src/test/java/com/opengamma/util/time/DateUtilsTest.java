@@ -6,21 +6,21 @@
 package com.opengamma.util.time;
 
 import static org.testng.AssertJUnit.assertEquals;
-import static org.threeten.bp.Month.MARCH;
+import static java.time.Month.MARCH;
 
 import java.util.Date;
 import java.util.GregorianCalendar;
 
 import org.fudgemsg.types.FudgeDate;
 import org.testng.annotations.Test;
-import org.threeten.bp.Clock;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Clock;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.Period;
+import java.time.ZoneId;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.opengamma.util.test.TestGroup;
 

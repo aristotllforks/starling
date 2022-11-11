@@ -16,7 +16,7 @@ import java.util.Map.Entry;
 import java.util.Random;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.analytics.financial.forex.method.FXMatrix;
 import com.opengamma.analytics.financial.instrument.index.IborIndex;

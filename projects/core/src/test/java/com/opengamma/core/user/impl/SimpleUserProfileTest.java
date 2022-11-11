@@ -13,8 +13,8 @@ import java.util.Locale;
 import java.util.Map;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZoneOffset;
+import java.time.ZoneId;
+import java.time.ZoneOffset;
 
 import com.opengamma.core.user.DateStyle;
 import com.opengamma.core.user.TimeStyle;

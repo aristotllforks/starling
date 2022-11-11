@@ -12,7 +12,7 @@ import static org.testng.Assert.assertNotSame;
 import static org.testng.Assert.assertTrue;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.timeseries.date.localdate.ImmutableLocalDateDoubleTimeSeries;
 

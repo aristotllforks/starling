@@ -7,7 +7,7 @@ package com.opengamma.financial.analytics.fxforwardcurve;
 
 import java.util.Set;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.ImmutableSet;
 import com.opengamma.engine.ComputationTarget;

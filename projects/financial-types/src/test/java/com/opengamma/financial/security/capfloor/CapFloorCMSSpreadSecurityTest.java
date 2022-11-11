@@ -11,7 +11,7 @@ import java.util.Arrays;
 
 import org.joda.beans.Bean;
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.financial.AbstractBeanTestCase;
 import com.opengamma.financial.convention.daycount.DayCount;

@@ -6,8 +6,8 @@
 package com.opengamma.analytics.financial.instrument.future;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.instrument.InstrumentDefinitionVisitor;
 import com.opengamma.analytics.financial.instrument.index.GeneratorSwapFixedIbor;

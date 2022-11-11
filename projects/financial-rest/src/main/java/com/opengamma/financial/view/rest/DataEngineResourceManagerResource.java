@@ -22,7 +22,7 @@ import javax.ws.rs.core.Response;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.resource.EngineResourceManager;
 import com.opengamma.engine.resource.EngineResourceReference;

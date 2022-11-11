@@ -5,11 +5,11 @@
  */
 package com.opengamma.timeseries.precise.zdt;
 
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.jdk8.Jdk8Methods;
+import java.time.Instant;
+import java.time.LocalDateTime;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
+import java.time.jdk8.Jdk8Methods;
 
 /**
  * An encoder between {@code ZonedDateTime} and {@code long}.

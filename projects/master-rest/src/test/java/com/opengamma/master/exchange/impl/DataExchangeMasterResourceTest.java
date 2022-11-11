@@ -13,7 +13,7 @@ import static org.testng.AssertJUnit.assertSame;
 
 import java.net.URI;
 
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.UriInfo;
 

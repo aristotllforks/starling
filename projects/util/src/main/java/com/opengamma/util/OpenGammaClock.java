@@ -5,8 +5,8 @@
  */
 package com.opengamma.util;
 
-import org.threeten.bp.Clock;
-import org.threeten.bp.ZoneId;
+import java.time.Clock;
+import java.time.ZoneId;
 
 /**
  * Provides a shared singleton {@code Clock} for use throughout OpenGamma.

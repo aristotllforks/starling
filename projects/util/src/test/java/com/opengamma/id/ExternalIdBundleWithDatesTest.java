@@ -10,8 +10,8 @@ import static org.testng.Assert.assertFalse;
 import static org.testng.Assert.assertNotEquals;
 import static org.testng.Assert.assertSame;
 import static org.testng.Assert.assertTrue;
-import static org.threeten.bp.Month.DECEMBER;
-import static org.threeten.bp.Month.JANUARY;
+import static java.time.Month.DECEMBER;
+import static java.time.Month.JANUARY;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -22,7 +22,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.Sets;
 import com.opengamma.util.test.TestGroup;

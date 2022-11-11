@@ -11,8 +11,8 @@ import java.util.Collections;
 import java.util.Map;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.date.CalendarAdapter;
 import com.mcleodmoores.date.EmptyWorkingDayCalendar;

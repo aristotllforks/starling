@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.base.Supplier;
 import com.opengamma.core.change.BasicChangeManager;

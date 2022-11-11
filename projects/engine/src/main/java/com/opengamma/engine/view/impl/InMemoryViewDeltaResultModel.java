@@ -5,7 +5,7 @@
  */
 package com.opengamma.engine.view.impl;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.view.ViewDeltaResultModel;
 

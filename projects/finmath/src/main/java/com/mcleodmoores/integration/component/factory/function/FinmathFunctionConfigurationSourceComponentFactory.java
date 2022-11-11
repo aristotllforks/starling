@@ -21,7 +21,7 @@ import org.joda.beans.PropertyDefinition;
 import org.joda.beans.impl.direct.DirectBeanBuilder;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.mcleodmoores.integration.function.curve.CurveFunctions;
 import com.opengamma.component.ComponentInfo;

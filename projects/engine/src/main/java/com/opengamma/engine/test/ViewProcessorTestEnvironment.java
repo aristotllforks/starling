@@ -6,7 +6,7 @@
 package com.opengamma.engine.test;
 
 import org.fudgemsg.FudgeContext;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.config.ConfigSource;
 import com.opengamma.core.position.PositionSource;

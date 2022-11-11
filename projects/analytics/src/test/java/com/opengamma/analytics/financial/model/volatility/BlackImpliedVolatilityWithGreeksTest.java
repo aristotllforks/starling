@@ -8,7 +8,7 @@ package com.opengamma.analytics.financial.model.volatility;
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.analytics.math.matrix.DoubleMatrix1D;
 import com.opengamma.analytics.util.time.TimeCalculator;

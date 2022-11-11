@@ -5,7 +5,7 @@
  */
 package com.opengamma.analytics.financial.interestrate.caplet;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.analytics.financial.instrument.index.IborIndex;
 import com.opengamma.analytics.financial.interestrate.payments.derivative.CapFloorIbor;

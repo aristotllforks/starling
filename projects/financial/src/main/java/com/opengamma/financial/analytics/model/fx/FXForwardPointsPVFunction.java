@@ -12,8 +12,8 @@ import static com.opengamma.engine.value.ValueRequirementNames.PRESENT_VALUE;
 import java.util.Collections;
 import java.util.Set;
 
-import org.threeten.bp.Instant;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Instant;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Iterables;
 import com.opengamma.OpenGammaRuntimeException;

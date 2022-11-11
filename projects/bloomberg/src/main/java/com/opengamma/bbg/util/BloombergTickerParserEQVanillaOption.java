@@ -16,7 +16,7 @@ import com.opengamma.id.ExternalId;
  * </p>
  * A legal Bloomberg equity ticker looks like this: <code>MSFT US 01/21/12 P17.5 Equity</code>. See the Bloomberg documentation for more details.
  * <p>
- * All dates are represented as {@link org.threeten.bp.LocalDate}. For greater accuracy, users should perform a Bloomberg security lookup.
+ * All dates are represented as {@link java.time.LocalDate}. For greater accuracy, users should perform a Bloomberg security lookup.
  * </p>
  * <p>
  * The idiom for using this class is to create a parser instance around the Bloomberg ticker, and then call various getters on the instance to read the

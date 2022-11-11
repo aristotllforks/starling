@@ -6,7 +6,7 @@ package com.opengamma.util.time;
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.util.test.TestGroup;
 import com.opengamma.util.time.Tenor.BusinessDayTenor;

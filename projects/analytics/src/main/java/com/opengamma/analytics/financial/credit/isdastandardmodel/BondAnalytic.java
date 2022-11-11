@@ -8,7 +8,7 @@ package com.opengamma.analytics.financial.credit.isdastandardmodel;
 import java.util.Arrays;
 
 import org.apache.log4j.Logger;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.convention.daycount.DayCount;
 import com.opengamma.financial.convention.daycount.DayCounts;

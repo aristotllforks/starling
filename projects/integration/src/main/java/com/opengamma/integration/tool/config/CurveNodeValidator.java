@@ -7,7 +7,7 @@ package com.opengamma.integration.tool.config;
 
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.core.DateSet;

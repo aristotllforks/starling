@@ -7,8 +7,8 @@ package com.opengamma.core.user;
 
 import java.util.Locale;
 
-import org.threeten.bp.format.DateTimeFormatter;
-import org.threeten.bp.format.FormatStyle;
+import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
 
 import com.opengamma.util.PublicAPI;
 

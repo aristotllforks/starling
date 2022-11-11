@@ -11,8 +11,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.Period;
+import java.time.LocalTime;
+import java.time.Period;
 
 import com.opengamma.analytics.math.interpolation.factory.DoubleQuadraticInterpolator1dAdapter;
 import com.opengamma.analytics.math.interpolation.factory.FlatExtrapolator1dAdapter;

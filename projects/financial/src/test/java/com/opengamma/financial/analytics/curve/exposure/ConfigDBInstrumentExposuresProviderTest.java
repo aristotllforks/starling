@@ -17,8 +17,8 @@ import java.util.Map;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.OffsetTime;
+import java.time.LocalDate;
+import java.time.OffsetTime;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;

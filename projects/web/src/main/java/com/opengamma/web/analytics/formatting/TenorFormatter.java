@@ -5,7 +5,7 @@
  */
 package com.opengamma.web.analytics.formatting;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.engine.value.ValueSpecification;
 import com.opengamma.util.time.Tenor;

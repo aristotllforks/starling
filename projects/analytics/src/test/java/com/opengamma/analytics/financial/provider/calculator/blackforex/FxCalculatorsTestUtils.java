@@ -7,8 +7,8 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.date.EmptyWorkingDayCalendar;
 import com.opengamma.analytics.financial.forex.definition.ForexDefinition;

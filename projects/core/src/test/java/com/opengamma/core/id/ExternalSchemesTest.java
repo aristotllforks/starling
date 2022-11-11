@@ -8,7 +8,7 @@ package com.opengamma.core.id;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.util.i18n.Country;

@@ -10,8 +10,8 @@ import java.util.Collections;
 
 import org.joda.beans.Bean;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
+import java.time.Instant;
+import java.time.LocalDate;
 
 import com.opengamma.core.DateSet;
 import com.opengamma.core.config.impl.ConfigItem;

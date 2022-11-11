@@ -14,7 +14,7 @@ import org.joda.beans.MetaProperty;
 import org.joda.beans.PropertyDefinition;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.util.ArgumentChecker;
 

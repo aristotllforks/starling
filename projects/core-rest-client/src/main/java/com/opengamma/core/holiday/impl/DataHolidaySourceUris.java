@@ -10,7 +10,7 @@ import java.net.URI;
 
 import javax.ws.rs.core.UriBuilder;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.holiday.HolidayType;
 import com.opengamma.id.ExternalIdBundle;

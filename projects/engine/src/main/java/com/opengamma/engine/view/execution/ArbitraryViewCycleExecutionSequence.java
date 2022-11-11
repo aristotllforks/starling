@@ -12,7 +12,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.util.ArgumentChecker;
 

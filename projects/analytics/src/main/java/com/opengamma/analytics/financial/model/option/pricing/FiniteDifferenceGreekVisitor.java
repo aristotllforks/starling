@@ -6,7 +6,7 @@
 package com.opengamma.analytics.financial.model.option.pricing;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.greeks.AbstractGreekVisitor;
 import com.opengamma.analytics.financial.model.interestrate.curve.YieldAndDiscountCurve;

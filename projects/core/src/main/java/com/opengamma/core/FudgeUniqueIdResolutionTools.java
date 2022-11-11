@@ -11,7 +11,7 @@ import org.apache.commons.lang.ObjectUtils;
 import org.fudgemsg.FudgeContext;
 import org.fudgemsg.FudgeField;
 import org.fudgemsg.MutableFudgeMsg;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.Lists;
 import com.opengamma.OpenGammaRuntimeException;

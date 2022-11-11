@@ -8,12 +8,12 @@ package com.opengamma.financial.analytics.ircurve;
 import java.util.EnumSet;
 import java.util.Set;
 
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
-import org.threeten.bp.temporal.Temporal;
-import org.threeten.bp.temporal.TemporalAdjuster;
-import org.threeten.bp.temporal.TemporalAdjusters;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
+import java.time.Month;
+import java.time.temporal.Temporal;
+import java.time.temporal.TemporalAdjuster;
+import java.time.temporal.TemporalAdjusters;
 
 /**
  * {@code DatAdjuster} that finds the next Expiry in Interest Rate Futures Options. This is the 3rd Wednesday of the next IMM Future Expiry Month.

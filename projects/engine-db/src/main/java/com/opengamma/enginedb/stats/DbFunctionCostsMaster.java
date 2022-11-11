@@ -15,8 +15,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.dao.DataAccessException;
 import org.springframework.jdbc.core.ResultSetExtractor;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcOperations;
-import org.threeten.bp.Clock;
-import org.threeten.bp.Instant;
+import java.time.Clock;
+import java.time.Instant;
 
 import com.opengamma.elsql.ElSqlBundle;
 import com.opengamma.engine.calcnode.stats.FunctionCostsDocument;

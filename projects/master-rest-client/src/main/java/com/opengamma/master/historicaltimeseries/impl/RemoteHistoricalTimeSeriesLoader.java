@@ -10,7 +10,7 @@ import java.net.URI;
 import java.util.Map;
 import java.util.Set;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.id.UniqueId;

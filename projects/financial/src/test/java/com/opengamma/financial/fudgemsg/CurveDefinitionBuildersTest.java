@@ -13,7 +13,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.analytics.curve.CurveDefinition;
 import com.opengamma.financial.analytics.curve.FixedDateInterpolatedCurveDefinition;

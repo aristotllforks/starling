@@ -14,7 +14,7 @@ import java.util.List;
 
 import org.mockito.Mockito;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.marketdata.spec.MarketData;
 import com.opengamma.engine.view.ViewDefinition;

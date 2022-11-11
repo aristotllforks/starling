@@ -5,8 +5,8 @@
  */
 package com.opengamma.financial.analytics;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 /**
  *

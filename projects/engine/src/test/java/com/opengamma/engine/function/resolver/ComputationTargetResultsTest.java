@@ -18,7 +18,7 @@ import org.mockito.Mockito;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Sets;

@@ -7,7 +7,7 @@ package com.opengamma.financial.sensitivities;
 
 import java.util.Comparator;
 
-import org.threeten.bp.Duration;
+import java.time.Duration;
 
 /**
  * Comparator for FactorExposureData.

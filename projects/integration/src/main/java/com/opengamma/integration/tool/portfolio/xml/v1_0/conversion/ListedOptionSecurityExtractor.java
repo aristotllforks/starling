@@ -5,7 +5,7 @@
  */
 package com.opengamma.integration.tool.portfolio.xml.v1_0.conversion;
 
-import org.threeten.bp.ZoneOffset;
+import java.time.ZoneOffset;
 
 import com.opengamma.financial.security.option.EquityIndexOptionSecurity;
 import com.opengamma.financial.security.option.ExerciseType;

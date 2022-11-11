@@ -11,7 +11,7 @@ import static org.testng.Assert.assertNull;
 import static org.testng.Assert.assertSame;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.financial.security.option.AmericanExerciseType;
 import com.opengamma.financial.security.option.EquityOptionSecurity;

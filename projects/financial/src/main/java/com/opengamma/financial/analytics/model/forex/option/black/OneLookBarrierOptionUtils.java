@@ -6,7 +6,7 @@ package com.opengamma.financial.analytics.model.forex.option.black;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.analytics.financial.forex.definition.ForexDefinition;

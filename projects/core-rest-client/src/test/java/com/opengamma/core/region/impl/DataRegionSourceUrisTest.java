@@ -11,7 +11,7 @@ import java.net.URISyntaxException;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.id.ExternalIdBundle;

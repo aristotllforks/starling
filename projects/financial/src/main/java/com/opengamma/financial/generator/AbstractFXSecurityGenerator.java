@@ -8,7 +8,7 @@ package com.opengamma.financial.generator;
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.core.position.Counterparty;

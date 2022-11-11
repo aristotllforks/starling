@@ -10,9 +10,9 @@ import static com.opengamma.analytics.financial.credit.isdastandardmodel.IMMDate
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Month;
+import java.time.Period;
 
 import com.opengamma.analytics.financial.credit.isdastandardmodel.ISDACompliantCreditCurveBuilder.ArbitrageHandling;
 import com.opengamma.util.test.TestGroup;

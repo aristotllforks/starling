@@ -10,7 +10,7 @@ import java.util.Locale;
 import org.apache.shiro.authc.credential.DefaultPasswordService;
 import org.apache.shiro.authc.credential.PasswordService;
 import org.testng.annotations.Test;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.core.user.DateStyle;
 import com.opengamma.core.user.TimeStyle;

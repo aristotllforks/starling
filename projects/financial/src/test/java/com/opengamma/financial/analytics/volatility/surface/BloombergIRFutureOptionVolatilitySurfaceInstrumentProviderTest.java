@@ -8,9 +8,9 @@ package com.opengamma.financial.analytics.volatility.surface;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
+import java.time.Month;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.financial.analytics.ircurve.NextExpiryAdjuster;

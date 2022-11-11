@@ -22,7 +22,7 @@ import org.joda.beans.impl.direct.DirectBeanBuilder;
 import org.joda.beans.impl.direct.DirectMetaBean;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.core.user.DateStyle;
 import com.opengamma.core.user.TimeStyle;

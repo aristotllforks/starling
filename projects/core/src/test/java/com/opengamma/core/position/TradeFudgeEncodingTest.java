@@ -8,8 +8,8 @@ package com.opengamma.core.position;
 import java.math.BigDecimal;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.OffsetTime;
+import java.time.LocalDate;
+import java.time.OffsetTime;
 
 import com.opengamma.core.position.impl.SimpleCounterparty;
 import com.opengamma.core.position.impl.SimpleTrade;

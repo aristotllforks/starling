@@ -12,7 +12,7 @@ import org.joda.beans.MetaBean;
 import org.joda.beans.MetaProperty;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.format.DateTimeParseException;
+import java.time.format.DateTimeParseException;
 
 import java.io.BufferedReader;
 import java.io.Reader;

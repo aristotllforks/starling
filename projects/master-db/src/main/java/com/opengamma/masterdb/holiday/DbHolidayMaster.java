@@ -24,7 +24,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.dao.DataAccessException;
 import org.springframework.jdbc.core.ResultSetExtractor;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.codahale.metrics.MetricRegistry;
 import com.codahale.metrics.Timer;

@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.convention.expirycalc;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.mcleodmoores.date.WorkingDayCalendar;
 import com.mcleodmoores.date.WorkingDayCalendarAdapter;

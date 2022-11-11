@@ -9,8 +9,8 @@ import static org.testng.Assert.assertTrue;
 import java.math.BigDecimal;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZoneId;
+import java.time.LocalDate;
+import java.time.ZoneId;
 
 import com.mcleodmoores.starling.client.portfolio.fpml5_8.CrossRate;
 import com.mcleodmoores.starling.client.portfolio.fpml5_8.ExchangeRate;

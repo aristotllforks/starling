@@ -13,8 +13,8 @@ import java.util.Map;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Duration;
-import org.threeten.bp.Instant;
+import java.time.Duration;
+import java.time.Instant;
 
 import com.google.common.collect.ImmutableMap;
 import com.opengamma.OpenGammaRuntimeException;

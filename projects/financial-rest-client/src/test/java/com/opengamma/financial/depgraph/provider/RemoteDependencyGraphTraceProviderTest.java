@@ -15,8 +15,8 @@ import java.net.URLDecoder;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
+import java.time.Instant;
+import java.time.LocalDate;
 
 import com.google.common.base.Throwables;
 import com.opengamma.engine.ComputationTargetSpecification;

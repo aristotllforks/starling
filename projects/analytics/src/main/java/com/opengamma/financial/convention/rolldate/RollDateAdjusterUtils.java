@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.convention.rolldate;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.util.ArgumentChecker;
 

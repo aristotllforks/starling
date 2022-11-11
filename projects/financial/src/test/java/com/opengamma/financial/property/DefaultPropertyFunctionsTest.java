@@ -16,8 +16,8 @@ import java.util.Set;
 
 import org.apache.commons.lang.Validate;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Instant;
+import java.time.ZonedDateTime;
 
 import com.opengamma.core.position.Portfolio;
 import com.opengamma.core.position.PortfolioNode;

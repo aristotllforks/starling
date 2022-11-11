@@ -5,7 +5,7 @@ package com.mcleodmoores.integration.simulatedexamples.populator;
 
 import java.util.Collections;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.holiday.HolidayType;
 import com.opengamma.core.holiday.WeekendType;

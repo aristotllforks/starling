@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.NoSuchElementException;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.timeseries.precise.PreciseDoubleTimeSeries;
 

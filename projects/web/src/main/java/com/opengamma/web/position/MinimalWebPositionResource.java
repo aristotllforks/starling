@@ -30,7 +30,7 @@ import javax.ws.rs.core.Response.Status;
 import org.apache.commons.lang.math.NumberUtils;
 import org.joda.beans.Bean;
 import org.joda.beans.impl.flexi.FlexiBean;
-import org.threeten.bp.format.DateTimeFormatter;
+import java.time.format.DateTimeFormatter;
 
 import com.google.common.base.Objects;
 import com.opengamma.core.historicaltimeseries.HistoricalTimeSeries;

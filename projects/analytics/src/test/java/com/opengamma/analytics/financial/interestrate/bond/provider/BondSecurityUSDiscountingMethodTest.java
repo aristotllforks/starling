@@ -9,9 +9,9 @@ import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.JulianFields;
+import java.time.Period;
+import java.time.ZonedDateTime;
+import java.time.temporal.JulianFields;
 
 import com.mcleodmoores.date.CalendarAdapter;
 import com.mcleodmoores.date.WeekendWorkingDayCalendar;

@@ -5,8 +5,8 @@
  */
 package com.mcleodmoores.examples.simulated.convention;
 
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.Period;
+import java.time.LocalTime;
+import java.time.Period;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.financial.convention.BondConvention;

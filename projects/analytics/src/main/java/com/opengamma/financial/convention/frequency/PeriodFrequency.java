@@ -10,7 +10,7 @@ import java.util.Locale;
 import java.util.Map;
 
 import org.joda.convert.FromString;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.google.common.collect.ImmutableMap;
 import com.opengamma.util.ArgumentChecker;

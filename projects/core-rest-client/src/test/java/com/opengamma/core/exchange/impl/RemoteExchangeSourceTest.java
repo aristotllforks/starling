@@ -20,8 +20,8 @@ import java.util.Map;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.ZoneId;
+import java.time.Instant;
+import java.time.ZoneId;
 
 import com.opengamma.DataNotFoundException;
 import com.opengamma.core.DummyWebResource;

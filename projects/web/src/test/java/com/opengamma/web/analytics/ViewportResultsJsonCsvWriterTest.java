@@ -12,8 +12,8 @@ import java.util.List;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.testng.annotations.Test;
-import org.threeten.bp.Duration;
-import org.threeten.bp.Instant;
+import java.time.Duration;
+import java.time.Instant;
 
 import com.google.common.collect.ImmutableList;
 import com.opengamma.engine.ComputationTargetSpecification;

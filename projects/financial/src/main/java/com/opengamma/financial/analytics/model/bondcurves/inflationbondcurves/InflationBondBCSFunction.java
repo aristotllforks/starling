@@ -12,7 +12,7 @@ import static com.opengamma.engine.value.ValueRequirementNames.JACOBIAN_BUNDLE;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.interestrate.InstrumentDerivative;
 import com.opengamma.analytics.financial.interestrate.InstrumentDerivativeVisitor;

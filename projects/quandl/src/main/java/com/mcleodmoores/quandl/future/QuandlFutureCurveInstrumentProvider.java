@@ -5,8 +5,8 @@ package com.mcleodmoores.quandl.future;
 
 import java.util.Objects;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.mcleodmoores.quandl.QuandlConstants;
 import com.opengamma.financial.analytics.ircurve.CurveInstrumentProvider;

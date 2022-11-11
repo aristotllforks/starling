@@ -5,7 +5,7 @@
  */
 package com.opengamma.master.cache;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.master.AbstractDocument;
 

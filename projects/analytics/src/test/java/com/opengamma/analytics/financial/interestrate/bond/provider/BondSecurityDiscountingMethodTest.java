@@ -11,9 +11,9 @@ import static org.testng.AssertJUnit.assertTrue;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.JulianFields;
+import java.time.Period;
+import java.time.ZonedDateTime;
+import java.time.temporal.JulianFields;
 
 import com.opengamma.analytics.financial.instrument.bond.BondFixedSecurityDefinition;
 import com.opengamma.analytics.financial.instrument.payment.CouponFixedDefinition;

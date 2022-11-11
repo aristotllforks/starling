@@ -13,8 +13,8 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZoneOffset;
+import java.time.ZoneId;
+import java.time.ZoneOffset;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.id.ExternalId;

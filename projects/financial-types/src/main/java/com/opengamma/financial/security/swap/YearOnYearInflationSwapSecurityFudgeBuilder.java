@@ -11,7 +11,7 @@ import org.fudgemsg.mapping.FudgeBuilder;
 import org.fudgemsg.mapping.FudgeBuilderFor;
 import org.fudgemsg.mapping.FudgeDeserializer;
 import org.fudgemsg.mapping.FudgeSerializer;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.util.fudgemsg.AbstractFudgeBuilder;
 import com.opengamma.util.time.Tenor;

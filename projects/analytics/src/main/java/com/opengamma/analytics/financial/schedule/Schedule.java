@@ -5,8 +5,8 @@
  */
 package com.opengamma.analytics.financial.schedule;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 /**
  *

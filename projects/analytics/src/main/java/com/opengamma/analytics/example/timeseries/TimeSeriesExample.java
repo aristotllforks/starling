@@ -7,7 +7,7 @@ package com.opengamma.analytics.example.timeseries;
 
 import java.io.PrintStream;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.timeseries.date.localdate.ImmutableLocalDateDoubleTimeSeries;
 import com.opengamma.timeseries.date.localdate.LocalDateDoubleTimeSeries;

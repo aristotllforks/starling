@@ -17,7 +17,7 @@ import org.fudgemsg.mapping.FudgeBuilderFor;
 import org.fudgemsg.mapping.FudgeDeserializer;
 import org.fudgemsg.mapping.FudgeSerializer;
 import org.joda.beans.BeanBuilder;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.util.fudgemsg.AbstractFudgeBuilder;
 

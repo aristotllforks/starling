@@ -13,8 +13,8 @@ import java.util.List;
 
 import org.joda.beans.JodaBeanUtils;
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalTime;
+import java.time.DayOfWeek;
+import java.time.LocalTime;
 
 import com.google.common.collect.Sets;
 import com.mcleodmoores.quandl.QuandlConstants;

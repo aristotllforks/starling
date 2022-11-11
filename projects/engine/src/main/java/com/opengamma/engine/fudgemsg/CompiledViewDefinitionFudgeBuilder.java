@@ -16,7 +16,7 @@ import org.fudgemsg.mapping.FudgeBuilder;
 import org.fudgemsg.mapping.FudgeDeserializer;
 import org.fudgemsg.mapping.FudgeSerializer;
 import org.fudgemsg.mapping.GenericFudgeBuilderFor;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.position.Portfolio;
 import com.opengamma.engine.view.ViewDefinition;

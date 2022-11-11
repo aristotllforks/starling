@@ -15,8 +15,8 @@ import static org.testng.AssertJUnit.assertNotNull;
 import java.math.BigDecimal;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.OffsetDateTime;
+import java.time.Instant;
+import java.time.OffsetDateTime;
 
 import com.opengamma.core.position.Portfolio;
 import com.opengamma.core.position.PortfolioNode;

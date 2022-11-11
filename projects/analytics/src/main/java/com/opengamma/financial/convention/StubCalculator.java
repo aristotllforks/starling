@@ -5,10 +5,10 @@
  */
 package com.opengamma.financial.convention;
 
-import static org.threeten.bp.temporal.TemporalAdjusters.lastDayOfMonth;
+import static java.time.temporal.TemporalAdjusters.lastDayOfMonth;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * Utility to calculate the stub type.

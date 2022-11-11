@@ -11,7 +11,7 @@ common/db.properties
 common/deploy.properties
 /projects/*
 !/projects/pom.xml
-!/projects/src
+!/projects/sr
 !/projects/parent
 !/projects/analytics
 !/projects/bloomberg
@@ -114,3 +114,6 @@ docs.sqlite3
 .idea/copyright/profiles_settings.xml
 atlassian-ide-plugin.xml
 .metadata/
+
+.idea
+.iml

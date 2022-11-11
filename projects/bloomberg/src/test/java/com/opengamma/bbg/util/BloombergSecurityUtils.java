@@ -8,12 +8,12 @@ package com.opengamma.bbg.util;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.Month;
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+import java.time.Month;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.ImmutableSet;
 import com.opengamma.bbg.security.BloombergSecurityProvider;

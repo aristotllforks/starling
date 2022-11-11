@@ -8,8 +8,8 @@ import static org.testng.Assert.assertNotEquals;
 import static org.testng.Assert.assertNull;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.opengamma.master.historicaltimeseries.HistoricalTimeSeriesGetFilter.Meta;
 import com.opengamma.util.test.AbstractFudgeBuilderTestCase;

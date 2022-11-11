@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.google.common.collect.ImmutableList;
 import com.opengamma.engine.function.FunctionParameters;

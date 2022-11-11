@@ -14,7 +14,7 @@ import java.util.Set;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;

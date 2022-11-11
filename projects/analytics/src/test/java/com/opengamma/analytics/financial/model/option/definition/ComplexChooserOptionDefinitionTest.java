@@ -11,7 +11,7 @@ import static org.testng.AssertJUnit.assertFalse;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Sets;
 import com.opengamma.analytics.financial.greeks.Greek;

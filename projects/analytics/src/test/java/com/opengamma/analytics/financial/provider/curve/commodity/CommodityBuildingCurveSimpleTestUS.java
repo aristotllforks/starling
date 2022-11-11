@@ -8,8 +8,8 @@ package com.opengamma.analytics.financial.provider.curve.commodity;
 import java.util.LinkedHashMap;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.curve.inflation.generator.GeneratorPriceIndexCurve;
 import com.opengamma.analytics.financial.instrument.InstrumentDefinition;

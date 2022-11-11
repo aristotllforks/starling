@@ -10,7 +10,7 @@ import org.fudgemsg.mapping.FudgeBuilder;
 import org.fudgemsg.mapping.FudgeBuilderFor;
 import org.fudgemsg.mapping.FudgeDeserializer;
 import org.fudgemsg.mapping.FudgeSerializer;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 /**
  * Fudge message builder for {@link ManageableCurveSnapshot}.

@@ -3,7 +3,7 @@
  */
 package com.mcleodmoores.date;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * Calculates the settlement date given a number of days to settle and a calendar. Settlement date

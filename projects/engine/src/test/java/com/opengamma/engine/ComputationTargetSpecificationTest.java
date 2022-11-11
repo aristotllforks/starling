@@ -12,7 +12,7 @@ import static org.testng.AssertJUnit.assertTrue;
 import java.math.BigDecimal;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.position.Counterparty;
 import com.opengamma.core.position.Position;

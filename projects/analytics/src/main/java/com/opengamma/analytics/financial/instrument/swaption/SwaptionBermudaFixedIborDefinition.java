@@ -7,7 +7,7 @@ package com.opengamma.analytics.financial.instrument.swaption;
 
 import java.util.Arrays;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.instrument.InstrumentDefinition;
 import com.opengamma.analytics.financial.instrument.InstrumentDefinitionVisitor;

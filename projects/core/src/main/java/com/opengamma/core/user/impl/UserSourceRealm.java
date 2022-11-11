@@ -27,7 +27,7 @@ import org.apache.shiro.realm.AuthorizingRealm;
 import org.apache.shiro.subject.PrincipalCollection;
 import org.apache.shiro.subject.SimplePrincipalCollection;
 import org.apache.shiro.util.SoftHashMap;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.google.common.collect.ImmutableList;
 import com.opengamma.DataNotFoundException;

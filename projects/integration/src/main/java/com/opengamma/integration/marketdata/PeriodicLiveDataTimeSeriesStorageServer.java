@@ -5,8 +5,8 @@
  */
 package com.opengamma.integration.marketdata;
 
-import static org.threeten.bp.temporal.ChronoUnit.HOURS;
-import static org.threeten.bp.temporal.ChronoUnit.MINUTES;
+import static java.time.temporal.ChronoUnit.HOURS;
+import static java.time.temporal.ChronoUnit.MINUTES;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -32,12 +32,12 @@ import org.fudgemsg.FudgeMsg;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.Lifecycle;
-import org.threeten.bp.Clock;
-import org.threeten.bp.Duration;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.OffsetDateTime;
-import org.threeten.bp.ZoneOffset;
+import java.time.Clock;
+import java.time.Duration;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.OffsetDateTime;
+import java.time.ZoneOffset;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.livedata.LiveDataClient;

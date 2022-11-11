@@ -5,7 +5,7 @@ package com.mcleodmoores.financial.function.credit.cds.isda.util;
 
 import java.util.Collection;
 
-import org.threeten.bp.DayOfWeek;
+import java.time.DayOfWeek;
 
 import com.mcleodmoores.date.SimpleWorkingDayCalendar;
 import com.mcleodmoores.date.WorkingDayCalendar;

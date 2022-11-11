@@ -10,7 +10,7 @@ import org.fudgemsg.FudgeMsg;
 import org.fudgemsg.mapping.FudgeDeserializer;
 import org.fudgemsg.mapping.FudgeSerializer;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.marketdatasnapshot.ValueSnapshot;
 import com.opengamma.id.ExternalId;

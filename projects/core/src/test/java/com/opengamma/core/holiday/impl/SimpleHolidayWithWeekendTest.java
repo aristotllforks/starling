@@ -8,7 +8,7 @@ package com.opengamma.core.holiday.impl;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.ImmutableList;
 import com.opengamma.core.holiday.WeekendType;

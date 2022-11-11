@@ -25,7 +25,7 @@ import org.reflections.scanners.MethodAnnotationsScanner;
 import org.reflections.scanners.MethodParameterScanner;
 import org.reflections.scanners.SubTypesScanner;
 import org.reflections.scanners.TypeAnnotationsScanner;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.OpenGammaRuntimeException;
 

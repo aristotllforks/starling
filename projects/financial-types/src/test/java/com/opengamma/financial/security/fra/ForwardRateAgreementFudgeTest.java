@@ -8,7 +8,7 @@ package com.opengamma.financial.security.fra;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.Sets;
 import com.opengamma.core.id.ExternalSchemes;

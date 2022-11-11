@@ -11,7 +11,7 @@ import static com.opengamma.engine.value.ValuePropertyNames.SURFACE;
 import java.util.Collections;
 import java.util.Set;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Sets;
 import com.opengamma.OpenGammaRuntimeException;

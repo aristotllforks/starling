@@ -8,7 +8,7 @@ package com.opengamma.engine.function;
 import java.util.Map;
 import java.util.Set;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.ComputationTarget;
 import com.opengamma.engine.target.ComputationTargetType;

@@ -8,7 +8,7 @@ package com.opengamma.masterdb.security;
 
 import java.net.URI;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.change.ChangeManager;
 import com.opengamma.master.security.impl.RemoteSecurityMaster;

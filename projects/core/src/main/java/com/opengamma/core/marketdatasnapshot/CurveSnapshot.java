@@ -5,7 +5,7 @@
  */
 package com.opengamma.core.marketdatasnapshot;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 /**
  * Represent a snapshot of a curve in a {@code StructuredMarketDataSnapshot}.

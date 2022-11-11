@@ -6,7 +6,7 @@
 
 package com.opengamma.engine.function.config;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.change.ChangeProvider;
 import com.opengamma.id.ObjectId;

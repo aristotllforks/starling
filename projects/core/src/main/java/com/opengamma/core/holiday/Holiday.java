@@ -7,7 +7,7 @@ package com.opengamma.core.holiday;
 
 import java.util.List;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.id.UniqueId;

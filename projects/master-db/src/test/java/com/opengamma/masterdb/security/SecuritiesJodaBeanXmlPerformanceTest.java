@@ -10,7 +10,7 @@ import java.util.Map;
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
-import org.threeten.bp.Duration;
+import java.time.Duration;
 
 import com.opengamma.master.security.ManageableSecurity;
 import com.opengamma.util.test.TestGroup;

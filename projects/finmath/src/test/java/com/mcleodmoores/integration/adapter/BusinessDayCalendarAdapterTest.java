@@ -15,7 +15,7 @@ import java.util.HashSet;
 
 import org.joda.time.LocalDate;
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
+import java.time.DayOfWeek;
 
 import com.mcleodmoores.date.SimpleWorkingDayCalendar;
 import com.mcleodmoores.date.WorkingDayCalendar;
@@ -29,7 +29,7 @@ import net.finmath.time.businessdaycalendar.BusinessdayCalendar;
 @Test(groups = TestGroup.UNIT)
 public class BusinessDayCalendarAdapterTest {
   /** Holiday dates */
-  private static final Collection<org.threeten.bp.LocalDate> HOLIDAYS;
+  private static final Collection<java.time.LocalDate> HOLIDAYS;
   /** A test calendar */
   private static final WorkingDayCalendar CALENDAR;
   /** The adapter */
@@ -38,7 +38,7 @@ public class BusinessDayCalendarAdapterTest {
   static {
     HOLIDAYS = new HashSet<>();
     for (int i = 1; i < 13; i++) {
-      HOLIDAYS.add(org.threeten.bp.LocalDate.of(2014, i, 1));
+      HOLIDAYS.add(java.time.LocalDate.of(2014, i, 1));
     }
     CALENDAR = new SimpleWorkingDayCalendar("Test", HOLIDAYS, DayOfWeek.SATURDAY, DayOfWeek.SUNDAY);
     ADAPTER = new BusinessDayCalendarAdapter(CALENDAR);
@@ -57,7 +57,7 @@ public class BusinessDayCalendarAdapterTest {
     assertEquals(ADAPTER.hashCode(), adapter.hashCode());
     assertEquals(ADAPTER, adapter);
     adapter = new BusinessDayCalendarAdapter(
-        new SimpleWorkingDayCalendar("Test", Collections.<org.threeten.bp.LocalDate>emptySet(), DayOfWeek.SATURDAY, DayOfWeek.SUNDAY));
+        new SimpleWorkingDayCalendar("Test", Collections.<java.time.LocalDate>emptySet(), DayOfWeek.SATURDAY, DayOfWeek.SUNDAY));
     // only using the name in these methods
     assertEquals(ADAPTER.hashCode(), adapter.hashCode());
     assertEquals(ADAPTER, adapter);

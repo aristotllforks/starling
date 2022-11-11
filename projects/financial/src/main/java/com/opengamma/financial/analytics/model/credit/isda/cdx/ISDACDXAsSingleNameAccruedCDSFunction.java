@@ -8,7 +8,7 @@ package com.opengamma.financial.analytics.model.credit.isda.cdx;
 import java.util.Collections;
 import java.util.Set;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Sets;
 import com.opengamma.OpenGammaRuntimeException;

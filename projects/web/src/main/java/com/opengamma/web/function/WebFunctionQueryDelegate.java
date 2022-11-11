@@ -12,7 +12,7 @@ import java.util.SortedMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.base.Predicate;
 import com.google.common.base.Predicates;

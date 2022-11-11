@@ -8,8 +8,8 @@ package com.opengamma.financial.convention.rolldate;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.temporal.TemporalAdjuster;
+import java.time.LocalDate;
+import java.time.temporal.TemporalAdjuster;
 
 import com.opengamma.util.test.TestGroup;
 

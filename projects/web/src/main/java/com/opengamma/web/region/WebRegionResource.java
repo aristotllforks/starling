@@ -23,7 +23,7 @@ import javax.ws.rs.core.Response.Status;
 
 import org.apache.commons.lang.StringUtils;
 import org.joda.beans.impl.flexi.FlexiBean;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.core.region.RegionClassification;
 import com.opengamma.id.UniqueId;

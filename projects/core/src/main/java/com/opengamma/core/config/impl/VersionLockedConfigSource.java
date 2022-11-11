@@ -8,7 +8,7 @@ package com.opengamma.core.config.impl;
 import java.util.Collection;
 import java.util.Map;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.change.ChangeManager;
 import com.opengamma.core.config.ConfigSource;

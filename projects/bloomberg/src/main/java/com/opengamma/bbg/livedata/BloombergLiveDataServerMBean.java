@@ -8,7 +8,7 @@ package com.opengamma.bbg.livedata;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.jmx.export.annotation.ManagedAttribute;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.livedata.server.LiveDataServerMBean;
 

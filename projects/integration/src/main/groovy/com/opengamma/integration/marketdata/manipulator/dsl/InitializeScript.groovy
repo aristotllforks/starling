@@ -5,7 +5,7 @@
  */
 package com.opengamma.integration.marketdata.manipulator.dsl
 
-import org.threeten.bp.Period
+import java.time.Period
 
 /*
  * Adds methods to java.util.Number:

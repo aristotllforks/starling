@@ -5,7 +5,7 @@
  */
 package com.opengamma.timeseries.precise.zdt;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.timeseries.precise.PreciseEntryIterator;
 import com.opengamma.timeseries.precise.PreciseTimeSeries;

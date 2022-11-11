@@ -7,8 +7,8 @@ import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertNotEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalTime;
+import java.time.LocalDate;
+import java.time.LocalTime;
 
 import com.opengamma.master.exchange.ManageableExchangeDetail.Meta;
 import com.opengamma.util.test.AbstractFudgeBuilderTestCase;

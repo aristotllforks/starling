@@ -14,7 +14,7 @@ import java.math.BigDecimal;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.OffsetDateTime;
+import java.time.OffsetDateTime;
 
 import com.google.common.collect.Sets;
 import com.opengamma.core.position.Counterparty;

@@ -9,8 +9,8 @@ import java.util.Collections;
 import java.util.Set;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.Clock;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Clock;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Sets;
 import com.opengamma.OpenGammaRuntimeException;

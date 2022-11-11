@@ -9,7 +9,7 @@ import static org.testng.Assert.assertTrue;
 import java.util.Random;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.analytics.financial.covariance.ExponentialWeightedMovingAverageHistoricalVolatilityCalculator;
 import com.opengamma.analytics.financial.timeseries.returns.TimeSeriesReturnCalculator;

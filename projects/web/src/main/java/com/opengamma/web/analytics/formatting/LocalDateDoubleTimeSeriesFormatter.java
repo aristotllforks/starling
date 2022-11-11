@@ -12,7 +12,7 @@ package com.opengamma.web.analytics.formatting;
 import java.util.List;
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.Lists;

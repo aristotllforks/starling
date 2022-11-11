@@ -8,7 +8,7 @@ package com.opengamma.financial.convention.calendar;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.analytics.financial.datasets.CalendarECBSettlements;
 import com.opengamma.util.test.TestGroup;

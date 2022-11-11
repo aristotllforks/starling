@@ -14,9 +14,9 @@ import static com.opengamma.financial.convention.businessday.BusinessDayDateUtil
 import java.util.Arrays;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Month;
+import java.time.Period;
 
 import com.opengamma.analytics.financial.model.BumpType;
 import com.opengamma.util.ArgumentChecker;

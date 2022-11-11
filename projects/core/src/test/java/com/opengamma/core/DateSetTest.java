@@ -13,7 +13,7 @@ import java.util.HashSet;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * Unit tests for {@link DateSet}.

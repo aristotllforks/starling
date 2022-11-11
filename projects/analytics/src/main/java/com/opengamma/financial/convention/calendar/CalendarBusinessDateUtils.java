@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.convention.calendar;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.util.ArgumentChecker;
 

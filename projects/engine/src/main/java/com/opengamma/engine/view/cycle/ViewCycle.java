@@ -5,7 +5,7 @@
  */
 package com.opengamma.engine.view.cycle;
 
-import org.threeten.bp.Duration;
+import java.time.Duration;
 
 import com.opengamma.engine.view.ViewComputationResultModel;
 import com.opengamma.engine.view.compilation.CompiledViewDefinitionWithGraphs;

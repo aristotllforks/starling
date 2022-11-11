@@ -7,7 +7,7 @@ package com.opengamma.engine.function.config;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.function.FunctionRepository;
 import com.opengamma.util.ArgumentChecker;

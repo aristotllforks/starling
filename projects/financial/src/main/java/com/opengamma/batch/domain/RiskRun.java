@@ -24,7 +24,7 @@ import org.joda.beans.impl.direct.DirectBeanBuilder;
 import org.joda.beans.impl.direct.DirectMetaBean;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.Sets;
 import com.opengamma.batch.BatchMaster;

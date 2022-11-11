@@ -11,8 +11,8 @@ import static org.testng.Assert.assertTrue;
 import java.util.Collections;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
 
 import com.mcleodmoores.date.SimpleWorkingDayCalendar;
 import com.mcleodmoores.date.WeekendWorkingDayCalendar;

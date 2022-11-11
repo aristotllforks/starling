@@ -8,7 +8,7 @@ package com.opengamma.analytics.financial.timeseries.filter;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import cern.colt.Arrays;
 import cern.jet.random.engine.MersenneTwister;

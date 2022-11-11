@@ -8,8 +8,8 @@ package com.opengamma.financial.convention;
 import static org.testng.AssertJUnit.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalDateTime;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
 
 import com.opengamma.util.test.TestGroup;
 

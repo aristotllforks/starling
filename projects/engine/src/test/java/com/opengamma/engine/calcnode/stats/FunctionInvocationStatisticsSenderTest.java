@@ -17,7 +17,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import org.threeten.bp.Duration;
+import java.time.Duration;
 
 import com.opengamma.engine.calcnode.stats.FunctionCosts;
 import com.opengamma.engine.calcnode.stats.FunctionInvocationStatisticsReceiver;

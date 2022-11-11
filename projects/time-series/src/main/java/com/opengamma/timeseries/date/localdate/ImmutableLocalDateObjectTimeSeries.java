@@ -13,7 +13,7 @@ import java.util.Map.Entry;
 import java.util.NoSuchElementException;
 import java.util.Objects;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.timeseries.ObjectTimeSeries;
 import com.opengamma.timeseries.ObjectTimeSeriesOperators;

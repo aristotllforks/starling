@@ -5,10 +5,10 @@
  */
 package com.opengamma.financial.analytics.ircurve;
 
-import static org.threeten.bp.temporal.ChronoUnit.MONTHS;
+import static java.time.temporal.ChronoUnit.MONTHS;
 
-import org.threeten.bp.temporal.Temporal;
-import org.threeten.bp.temporal.TemporalAdjuster;
+import java.time.temporal.Temporal;
+import java.time.temporal.TemporalAdjuster;
 
 /**
  * A {@code TemporalAdjuster} that moves the date to the next March/June/September/December.

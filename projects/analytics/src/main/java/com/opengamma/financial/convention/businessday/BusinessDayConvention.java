@@ -7,9 +7,9 @@ package com.opengamma.financial.convention.businessday;
 
 import org.joda.convert.FromStringFactory;
 import org.joda.convert.ToString;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.TemporalAdjuster;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
+import java.time.temporal.TemporalAdjuster;
 
 import com.opengamma.financial.convention.NamedInstance;
 import com.opengamma.financial.convention.calendar.Calendar;

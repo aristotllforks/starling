@@ -8,7 +8,7 @@ package com.opengamma.engine.fudgemsg;
 import java.util.Map;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.Maps;

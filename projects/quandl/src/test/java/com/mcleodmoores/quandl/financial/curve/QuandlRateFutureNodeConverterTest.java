@@ -12,11 +12,11 @@ import static org.testng.Assert.assertEquals;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.Period;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Sets;
 import com.mcleodmoores.quandl.QuandlConstants;

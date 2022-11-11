@@ -19,9 +19,9 @@ import org.fudgemsg.FudgeMsg;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.OffsetDateTime;
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.format.DateTimeFormatter;
+import java.time.OffsetDateTime;
+import java.time.ZoneOffset;
+import java.time.format.DateTimeFormatter;
 
 import com.google.common.collect.Sets;
 import com.opengamma.bbg.livedata.LoggedReferenceDataProvider;

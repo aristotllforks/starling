@@ -5,7 +5,7 @@
  */
 package com.opengamma.web.marketdatasnapshot;
 
-import static org.threeten.bp.temporal.ChronoUnit.SECONDS;
+import static java.time.temporal.ChronoUnit.SECONDS;
 
 import java.net.URI;
 import java.util.Collections;
@@ -31,11 +31,11 @@ import org.apache.commons.lang.StringUtils;
 import org.joda.beans.impl.flexi.FlexiBean;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.format.DateTimeFormatter;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.LocalTime;
+import java.time.ZonedDateTime;
+import java.time.format.DateTimeFormatter;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Iterables;

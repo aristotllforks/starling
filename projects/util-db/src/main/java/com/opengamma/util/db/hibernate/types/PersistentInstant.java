@@ -17,7 +17,7 @@ import org.hibernate.type.TimestampType;
 import org.hibernate.usertype.EnhancedUserType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.util.db.DbDateUtils;
 

@@ -10,8 +10,8 @@ import static com.opengamma.util.db.DbDateUtils.MAX_SQL_TIMESTAMP;
 import static com.opengamma.util.db.DbDateUtils.toSqlTimestamp;
 import static org.testng.AssertJUnit.assertEquals;
 import static org.testng.AssertJUnit.assertNotNull;
-import static org.threeten.bp.temporal.ChronoUnit.HOURS;
-import static org.threeten.bp.temporal.ChronoUnit.MINUTES;
+import static java.time.temporal.ChronoUnit.HOURS;
+import static java.time.temporal.ChronoUnit.MINUTES;
 
 import java.sql.Types;
 import java.util.List;
@@ -26,9 +26,9 @@ import org.springframework.jdbc.core.support.SqlLobValue;
 import org.springframework.jdbc.support.lob.DefaultLobHandler;
 import org.springframework.jdbc.support.lob.LobHandler;
 import org.testng.annotations.Test;
-import org.threeten.bp.Clock;
-import org.threeten.bp.Instant;
-import org.threeten.bp.ZoneOffset;
+import java.time.Clock;
+import java.time.Instant;
+import java.time.ZoneOffset;
 
 import com.opengamma.core.config.impl.ConfigItem;
 import com.opengamma.id.ExternalId;

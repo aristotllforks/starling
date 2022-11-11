@@ -5,7 +5,7 @@
  */
 package com.opengamma.analytics.financial.instrument.payment;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.instrument.index.IndexDeposit;
 

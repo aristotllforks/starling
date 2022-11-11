@@ -6,11 +6,11 @@ package com.opengamma.financial.analytics.model.testutils;
 import java.math.BigDecimal;
 import java.util.Collections;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.OffsetTime;
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.LocalTime;
+import java.time.OffsetTime;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.opengamma.core.position.Counterparty;
 import com.opengamma.core.position.Trade;

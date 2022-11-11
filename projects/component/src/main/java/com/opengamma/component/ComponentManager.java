@@ -22,7 +22,7 @@ import org.joda.beans.JodaBeanUtils;
 import org.joda.beans.MetaProperty;
 import org.springframework.core.io.AbstractResource;
 import org.springframework.core.io.Resource;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.google.common.base.Splitter;
 import com.google.common.collect.ImmutableList;

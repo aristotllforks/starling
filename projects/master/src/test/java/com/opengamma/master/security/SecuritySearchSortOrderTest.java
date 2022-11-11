@@ -10,7 +10,7 @@ import java.util.Collections;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.id.ObjectId;
 import com.opengamma.id.UniqueId;

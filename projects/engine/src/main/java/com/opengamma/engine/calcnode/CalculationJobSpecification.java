@@ -7,7 +7,7 @@ package com.opengamma.engine.calcnode;
 
 import org.apache.commons.lang.builder.ToStringBuilder;
 import org.apache.commons.lang.builder.ToStringStyle;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.id.UniqueId;
 

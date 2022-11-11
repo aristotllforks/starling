@@ -9,7 +9,7 @@
  */
 package com.opengamma.financial.analytics;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.convention.calendar.MondayToFridayCalendar;
 

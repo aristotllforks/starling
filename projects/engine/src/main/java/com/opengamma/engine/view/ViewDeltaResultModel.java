@@ -5,7 +5,7 @@
  */
 package com.opengamma.engine.view;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.util.PublicAPI;
 

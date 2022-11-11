@@ -5,7 +5,7 @@
  */
 package com.opengamma.masterdb;
 
-import org.threeten.bp.Clock;
+import java.time.Clock;
 
 import com.opengamma.elsql.ElSqlBundle;
 import com.opengamma.util.db.DbConnector;

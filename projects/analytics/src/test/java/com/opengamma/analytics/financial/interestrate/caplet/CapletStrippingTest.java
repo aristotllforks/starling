@@ -15,7 +15,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.analytics.financial.instrument.index.IborIndex;
 import com.opengamma.analytics.financial.model.interestrate.curve.YieldCurve;

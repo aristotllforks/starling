@@ -26,7 +26,7 @@ import org.fudgemsg.FudgeMsg;
 import org.fudgemsg.FudgeMsgEnvelope;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Duration;
+import java.time.Duration;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.bbg.livedata.BloombergLiveDataServer;

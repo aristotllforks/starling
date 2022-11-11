@@ -8,7 +8,7 @@ import static org.testng.Assert.assertEquals;
 import java.math.BigDecimal;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.mcleodmoores.starling.client.portfolio.fpml5_8.ExchangeRate;
 import com.mcleodmoores.starling.client.portfolio.fpml5_8.ExchangedCurrency;

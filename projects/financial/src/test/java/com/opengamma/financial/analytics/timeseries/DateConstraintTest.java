@@ -9,10 +9,10 @@ import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertNull;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Clock;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZoneId;
+import java.time.Clock;
+import java.time.LocalDate;
+import java.time.Period;
+import java.time.ZoneId;
 
 import com.opengamma.engine.function.FunctionExecutionContext;
 import com.opengamma.util.test.TestGroup;

@@ -21,7 +21,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.dao.DataAccessException;
 import org.springframework.jdbc.core.ResultSetExtractor;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcOperations;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.codahale.metrics.MetricRegistry;
 import com.codahale.metrics.Timer;

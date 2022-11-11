@@ -8,8 +8,8 @@ package com.opengamma.analytics.financial.credit.isdastandardmodel;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.mcleodmoores.date.CalendarAdapter;
 import com.mcleodmoores.date.WeekendWorkingDayCalendar;

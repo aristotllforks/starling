@@ -13,8 +13,8 @@ import java.util.List;
 
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
+import java.time.LocalDate;
+import java.time.Month;
 
 import com.opengamma.financial.security.option.OptionType;
 import com.opengamma.id.ExternalId;

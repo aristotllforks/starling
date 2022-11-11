@@ -3,7 +3,7 @@
  */
 package com.mcleodmoores.date;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * An implementation of a working day calendar that contains no holiday dates (i.e. every day including weekends is a working day).

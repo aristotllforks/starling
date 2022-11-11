@@ -6,7 +6,7 @@ package com.mcleodmoores.integration.adapter;
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * Unit tests for {@link FinmathDayCount}.

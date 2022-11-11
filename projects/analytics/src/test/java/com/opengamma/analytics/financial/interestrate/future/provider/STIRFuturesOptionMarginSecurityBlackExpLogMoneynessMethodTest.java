@@ -11,7 +11,7 @@ import static org.testng.AssertJUnit.assertTrue;
 import java.util.Map.Entry;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.date.CalendarAdapter;
 import com.mcleodmoores.date.WorkingDayCalendar;

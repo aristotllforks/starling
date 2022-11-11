@@ -6,7 +6,7 @@
 
 package com.opengamma.bbg.util;
 
-import static org.threeten.bp.DayOfWeek.FRIDAY;
+import static java.time.DayOfWeek.FRIDAY;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,8 +14,8 @@ import java.util.NavigableSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import com.google.common.base.MoreObjects;
 import com.google.common.base.Predicate;

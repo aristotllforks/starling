@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.calcnode.CalculationJob;
 import com.opengamma.engine.calcnode.CalculationJobSpecification;

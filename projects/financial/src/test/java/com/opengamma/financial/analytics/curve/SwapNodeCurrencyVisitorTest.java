@@ -7,7 +7,7 @@ import static com.opengamma.financial.analytics.curve.CurveNodeCurrencyVisitorTe
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalTime;
+import java.time.LocalTime;
 
 import com.google.common.collect.Sets;
 import com.opengamma.DataNotFoundException;

@@ -7,9 +7,9 @@ import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertNotEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.ZoneOffset;
+import java.time.LocalDate;
+import java.time.LocalTime;
+import java.time.ZoneOffset;
 
 import com.mcleodmoores.starling.client.marketdata.DataSource;
 import com.mcleodmoores.starling.client.portfolio.fpml5_8.FxFixing;

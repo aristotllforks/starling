@@ -20,7 +20,7 @@ import java.util.Set;
 
 import org.mockito.Mockito;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.ComputationTargetSpecification;
 import com.opengamma.engine.cache.CacheSelectHint;

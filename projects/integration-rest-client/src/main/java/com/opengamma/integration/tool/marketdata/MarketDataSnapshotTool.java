@@ -6,7 +6,7 @@
 package com.opengamma.integration.tool.marketdata;
 
 import static java.lang.String.format;
-import static org.threeten.bp.temporal.ChronoUnit.SECONDS;
+import static java.time.temporal.ChronoUnit.SECONDS;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,10 +18,10 @@ import org.apache.commons.cli.Options;
 import org.apache.commons.lang.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.format.DateTimeFormatter;
+import java.time.Instant;
+import java.time.LocalTime;
+import java.time.ZonedDateTime;
+import java.time.format.DateTimeFormatter;
 
 import com.opengamma.component.tool.AbstractTool;
 import com.opengamma.engine.marketdata.snapshot.MarketDataSnapshotter;

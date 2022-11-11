@@ -13,8 +13,8 @@ import java.util.Arrays;
 
 import org.testng.annotations.Test;
 import org.testng.internal.junit.ArrayAsserts;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.instrument.index.IborIndex;
 import com.opengamma.analytics.financial.interestrate.payments.derivative.Coupon;

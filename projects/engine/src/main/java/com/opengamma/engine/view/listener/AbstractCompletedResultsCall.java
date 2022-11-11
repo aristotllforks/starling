@@ -7,7 +7,7 @@ package com.opengamma.engine.view.listener;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.base.Function;
 import com.opengamma.engine.view.ViewComputationResultModel;

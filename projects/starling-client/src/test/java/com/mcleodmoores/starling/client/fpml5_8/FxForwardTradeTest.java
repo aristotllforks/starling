@@ -9,9 +9,9 @@ import static org.testng.Assert.assertTrue;
 import java.math.BigDecimal;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.starling.client.portfolio.fpml5_8.ExchangeRate;
 import com.mcleodmoores.starling.client.portfolio.fpml5_8.ExchangedCurrency;

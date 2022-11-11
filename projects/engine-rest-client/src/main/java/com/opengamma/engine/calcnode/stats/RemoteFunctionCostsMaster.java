@@ -8,7 +8,7 @@ package com.opengamma.engine.calcnode.stats;
 
 import java.net.URI;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.util.ArgumentChecker;
 import com.opengamma.util.rest.AbstractRemoteClient;

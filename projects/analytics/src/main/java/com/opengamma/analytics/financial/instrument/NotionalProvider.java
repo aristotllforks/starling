@@ -6,7 +6,7 @@
 
 package com.opengamma.analytics.financial.instrument;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * An interface that can return the notional for a given date.

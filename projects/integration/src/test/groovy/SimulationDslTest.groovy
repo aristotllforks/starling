@@ -6,9 +6,9 @@
 
 // TODO remove these once they're automatically imported by the script superclass
 import com.opengamma.id.VersionCorrection
-import org.threeten.bp.Instant
-import org.threeten.bp.ZoneOffset
-import org.threeten.bp.ZonedDateTime
+import java.time.Instant
+import java.time.ZoneOffset
+import java.time.ZonedDateTime
 
 // nonsense simulation definition to test the DSL classes
 simulation "test simulation", {

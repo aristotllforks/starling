@@ -8,9 +8,9 @@ package com.opengamma.analytics.financial.provider.description;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.TemporalAdjusters;
+import java.time.Period;
+import java.time.ZonedDateTime;
+import java.time.temporal.TemporalAdjusters;
 
 import com.mcleodmoores.date.WeekendWorkingDayCalendar;
 import com.mcleodmoores.date.WorkingDayCalendar;

@@ -7,7 +7,7 @@ package com.opengamma.analytics.financial.instrument.index;
 
 import java.util.Objects;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 /**
  * Class with the attributed required to generate an interest rate (IR) instrument from the market quotes.

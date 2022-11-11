@@ -8,9 +8,9 @@ package com.opengamma.analytics.util.time;
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.env.AnalyticsEnvironment;
 import com.opengamma.financial.convention.calendar.Calendar;

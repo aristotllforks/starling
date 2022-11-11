@@ -1,7 +1,7 @@
 package com.opengamma.analytics.financial.credit.cds;
 
-import static org.threeten.bp.DayOfWeek.SATURDAY;
-import static org.threeten.bp.DayOfWeek.SUNDAY;
+import static java.time.DayOfWeek.SATURDAY;
+import static java.time.DayOfWeek.SUNDAY;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,8 +14,8 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.format.DateTimeFormatter;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 
 /**
  * The class holds the data for one of the test grids and the associated interest rate curve

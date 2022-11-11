@@ -10,7 +10,7 @@ import static org.testng.Assert.assertEquals;
 import java.math.BigDecimal;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.financial.security.fra.FRASecurity;

@@ -12,9 +12,9 @@ package com.opengamma.financial.analytics.curve;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.date.CalendarAdapter;
 import com.mcleodmoores.date.FxSettlementDayCalculator;

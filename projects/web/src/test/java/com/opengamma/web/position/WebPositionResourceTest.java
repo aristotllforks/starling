@@ -18,9 +18,9 @@ import javax.ws.rs.core.Response;
 
 import org.json.JSONObject;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.OffsetTime;
+import java.time.LocalDate;
+import java.time.LocalTime;
+import java.time.OffsetTime;
 
 import com.opengamma.id.UniqueId;
 import com.opengamma.master.position.ManageablePosition;

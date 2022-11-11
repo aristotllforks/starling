@@ -15,8 +15,8 @@ import java.util.Collections;
 import java.util.Set;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Duration;
-import org.threeten.bp.Instant;
+import java.time.Duration;
+import java.time.Instant;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.core.value.MarketDataRequirementNames;

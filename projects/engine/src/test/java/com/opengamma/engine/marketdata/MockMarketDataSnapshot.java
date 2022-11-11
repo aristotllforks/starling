@@ -5,7 +5,7 @@
  */
 package com.opengamma.engine.marketdata;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.value.ValueSpecification;
 import com.opengamma.id.UniqueId;

@@ -12,7 +12,7 @@ import java.util.concurrent.locks.Lock;
 
 import org.mockito.Mockito;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.marketdata.availability.MarketDataAvailabilityProvider;
 import com.opengamma.engine.view.ViewDefinition;

@@ -7,7 +7,7 @@ package com.opengamma.financial.function.rest;
 
 import java.net.URI;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.change.ChangeManager;
 import com.opengamma.core.change.DummyChangeManager;

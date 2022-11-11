@@ -26,8 +26,8 @@ import org.joda.beans.impl.direct.DirectMetaPropertyMap;
 import org.joda.beans.impl.direct.DirectPrivateBeanBuilder;
 import org.joda.convert.FromString;
 import org.joda.convert.ToString;
-import org.threeten.bp.DateTimeException;
-import org.threeten.bp.Instant;
+import java.time.DateTimeException;
+import java.time.Instant;
 
 import com.google.common.base.MoreObjects;
 import com.google.common.collect.Ordering;

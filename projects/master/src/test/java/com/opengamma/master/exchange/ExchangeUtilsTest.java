@@ -10,9 +10,9 @@ import java.util.Collections;
 
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.ZoneId;
+import java.time.LocalDate;
+import java.time.LocalTime;
+import java.time.ZoneId;
 
 import com.opengamma.core.exchange.ExchangeSource;
 import com.opengamma.core.id.ExternalSchemes;

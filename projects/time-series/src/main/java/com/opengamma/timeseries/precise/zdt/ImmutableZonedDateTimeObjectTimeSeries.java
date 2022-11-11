@@ -13,8 +13,8 @@ import java.util.Map.Entry;
 import java.util.NoSuchElementException;
 import java.util.Objects;
 
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
 
 import com.opengamma.timeseries.ObjectTimeSeries;
 import com.opengamma.timeseries.ObjectTimeSeriesOperators;

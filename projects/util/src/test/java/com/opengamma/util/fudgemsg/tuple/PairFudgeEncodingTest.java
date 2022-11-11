@@ -9,7 +9,7 @@ import static org.testng.Assert.assertEquals;
 
 import org.fudgemsg.FudgeMsg;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.id.ExternalIdBundle;

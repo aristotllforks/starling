@@ -5,7 +5,7 @@ package com.opengamma.financial.calendar;
 
 import java.util.Collection;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.mcleodmoores.date.WorkingDayCalendar;
 import com.opengamma.DataNotFoundException;

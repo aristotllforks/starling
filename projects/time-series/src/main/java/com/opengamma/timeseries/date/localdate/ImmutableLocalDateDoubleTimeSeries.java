@@ -11,7 +11,7 @@ import java.util.Collection;
 import java.util.NoSuchElementException;
 import java.util.Objects;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.timeseries.DoubleTimeSeries;
 import com.opengamma.timeseries.DoubleTimeSeriesOperators.BinaryOperator;

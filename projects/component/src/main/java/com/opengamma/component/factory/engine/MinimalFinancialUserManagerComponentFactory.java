@@ -20,7 +20,7 @@ import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Duration;
+import java.time.Duration;
 
 import com.opengamma.component.ComponentInfo;
 import com.opengamma.component.ComponentRepository;

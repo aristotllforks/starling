@@ -8,7 +8,7 @@ package com.opengamma.engine.exec.stats;
 
 import java.util.concurrent.atomic.AtomicLong;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.id.UniqueId;
 

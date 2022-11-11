@@ -3,8 +3,8 @@
  */
 package com.mcleodmoores.date;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.temporal.TemporalAdjusters;
+import java.time.LocalDate;
+import java.time.temporal.TemporalAdjusters;
 
 import com.opengamma.analytics.util.time.TenorUtils;
 import com.opengamma.financial.convention.businessday.BusinessDayConvention;

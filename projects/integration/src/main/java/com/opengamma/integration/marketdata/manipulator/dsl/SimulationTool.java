@@ -15,8 +15,8 @@ import org.apache.commons.cli.Options;
 import org.apache.commons.io.FileUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.format.DateTimeParseException;
+import java.time.LocalDate;
+import java.time.format.DateTimeParseException;
 
 import com.google.common.collect.Lists;
 import com.opengamma.OpenGammaRuntimeException;

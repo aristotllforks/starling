@@ -10,7 +10,7 @@ import static org.testng.Assert.assertNotNull;
 import java.util.Collections;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.DateSet;
 import com.opengamma.util.test.AbstractFudgeBuilderTestCase;

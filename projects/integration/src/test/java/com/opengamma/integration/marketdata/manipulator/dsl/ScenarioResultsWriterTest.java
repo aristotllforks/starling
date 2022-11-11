@@ -14,10 +14,10 @@ import java.util.Map;
 
 import org.apache.commons.lang.StringUtils;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.OffsetTime;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.OffsetTime;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;

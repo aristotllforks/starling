@@ -7,8 +7,8 @@ package com.opengamma.analytics.financial.credit.options;
 
 import static com.opengamma.financial.convention.businessday.BusinessDayDateUtils.addWorkDays;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.opengamma.analytics.financial.credit.isdastandardmodel.ISDABaseTest;
 import com.opengamma.analytics.financial.credit.isdastandardmodel.ISDACompliantYieldCurve;

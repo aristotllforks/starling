@@ -8,7 +8,7 @@ import static org.testng.Assert.assertNull;
 
 import org.fudgemsg.MutableFudgeMsg;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.value.MarketDataRequirementNames;
 import com.opengamma.livedata.server.FieldHistoryStore;

@@ -8,9 +8,9 @@ package com.opengamma.financial.analytics.model.equity.varianceswap;
 import java.util.Collections;
 import java.util.Set;
 
-import org.threeten.bp.Clock;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Clock;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Iterables;
 import com.opengamma.OpenGammaRuntimeException;

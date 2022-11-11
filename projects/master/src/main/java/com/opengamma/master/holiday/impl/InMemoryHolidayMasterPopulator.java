@@ -14,8 +14,8 @@ import java.io.InputStreamReader;
 import java.util.Map;
 import java.util.ResourceBundle;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.format.DateTimeFormatter;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 
 import com.google.common.collect.Maps;
 import com.opengamma.OpenGammaRuntimeException;

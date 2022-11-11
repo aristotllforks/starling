@@ -40,8 +40,8 @@ import org.joda.beans.test.BeanAssert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import org.threeten.bp.Clock;
-import org.threeten.bp.Instant;
+import java.time.Clock;
+import java.time.Instant;
 
 import com.google.common.collect.ImmutableSet;
 import com.opengamma.bbg.BloombergConnector;

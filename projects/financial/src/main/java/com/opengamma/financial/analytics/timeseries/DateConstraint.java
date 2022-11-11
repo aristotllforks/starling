@@ -6,8 +6,8 @@
 package com.opengamma.financial.analytics.timeseries;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.engine.function.FunctionExecutionContext;

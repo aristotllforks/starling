@@ -9,8 +9,8 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Map;
 
-import org.threeten.bp.Clock;
-import org.threeten.bp.Instant;
+import java.time.Clock;
+import java.time.Instant;
 
 import com.opengamma.core.change.BasicChangeManager;
 import com.opengamma.core.change.ChangeManager;

@@ -7,9 +7,9 @@ package com.opengamma.financial.convention.daycount;
 
 import org.apache.commons.lang.NotImplementedException;
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.JulianFields;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
+import java.time.temporal.JulianFields;
 
 /**
  * The 'Actual/365L' day count.

@@ -5,7 +5,7 @@
  */
 package com.opengamma.timeseries.precise.instant;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.timeseries.precise.PreciseEntryIterator;
 import com.opengamma.timeseries.precise.PreciseTimeSeries;

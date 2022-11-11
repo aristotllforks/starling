@@ -6,7 +6,7 @@
 package com.opengamma.financial.analytics.conversion;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.analytics.financial.forex.definition.ForexDefinition;

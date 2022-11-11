@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.analytics.curve;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.instrument.InstrumentDefinition;
 import com.opengamma.core.convention.ConventionSource;

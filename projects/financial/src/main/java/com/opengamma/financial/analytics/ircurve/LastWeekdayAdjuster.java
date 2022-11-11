@@ -5,10 +5,10 @@
  */
 package com.opengamma.financial.analytics.ircurve;
 
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.temporal.Temporal;
-import org.threeten.bp.temporal.TemporalAdjuster;
-import org.threeten.bp.temporal.TemporalAdjusters;
+import java.time.DayOfWeek;
+import java.time.temporal.Temporal;
+import java.time.temporal.TemporalAdjuster;
+import java.time.temporal.TemporalAdjusters;
 
 /** Returns last weekday in current month. */
 public class LastWeekdayAdjuster implements TemporalAdjuster {

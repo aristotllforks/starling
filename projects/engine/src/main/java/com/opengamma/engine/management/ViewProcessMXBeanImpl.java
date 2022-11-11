@@ -8,11 +8,11 @@ package com.opengamma.engine.management;
 import javax.management.MalformedObjectNameException;
 import javax.management.ObjectName;
 
-import org.threeten.bp.Duration;
-import org.threeten.bp.Instant;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZonedDateTime;
-import org.threeten.bp.temporal.ChronoUnit;
+import java.time.Duration;
+import java.time.Instant;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
+import java.time.temporal.ChronoUnit;
 
 import com.opengamma.core.config.impl.ConfigItem;
 import com.opengamma.engine.view.ViewComputationResultModel;

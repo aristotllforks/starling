@@ -12,9 +12,9 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Random;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.OffsetTime;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.OffsetTime;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Lists;
 import com.opengamma.OpenGammaRuntimeException;

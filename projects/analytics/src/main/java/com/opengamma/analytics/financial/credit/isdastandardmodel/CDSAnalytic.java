@@ -9,9 +9,9 @@ import static com.opengamma.analytics.financial.credit.isdastandardmodel.CDSCoup
 
 import java.util.Arrays;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
-import org.threeten.bp.temporal.JulianFields;
+import java.time.LocalDate;
+import java.time.Period;
+import java.time.temporal.JulianFields;
 
 import com.opengamma.financial.convention.businessday.BusinessDayConvention;
 import com.opengamma.financial.convention.businessday.BusinessDayConventions;

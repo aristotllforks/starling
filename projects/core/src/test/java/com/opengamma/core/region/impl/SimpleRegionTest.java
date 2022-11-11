@@ -10,7 +10,7 @@ import static org.testng.Assert.assertNull;
 import java.util.Collections;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.core.region.RegionClassification;

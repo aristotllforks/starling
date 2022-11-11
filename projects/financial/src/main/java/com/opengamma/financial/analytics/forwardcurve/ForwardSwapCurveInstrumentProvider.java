@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.analytics.forwardcurve;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.analytics.ircurve.IndexType;
 import com.opengamma.id.ExternalId;

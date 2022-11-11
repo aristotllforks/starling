@@ -7,8 +7,8 @@ package com.opengamma.engine.target.lazy;
 
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.OffsetTime;
+import java.time.LocalDate;
+import java.time.OffsetTime;
 
 import com.opengamma.core.position.Counterparty;
 import com.opengamma.core.position.Trade;

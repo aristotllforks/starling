@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.credit;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.id.ExternalScheme;

@@ -9,14 +9,14 @@
  */
 package com.opengamma.core.holiday;
 
-import static org.threeten.bp.DayOfWeek.SATURDAY;
-import static org.threeten.bp.DayOfWeek.SUNDAY;
+import static java.time.DayOfWeek.SATURDAY;
+import static java.time.DayOfWeek.SUNDAY;
 
 import java.util.Collection;
 import java.util.Collections;
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.id.ExternalIdBundle;

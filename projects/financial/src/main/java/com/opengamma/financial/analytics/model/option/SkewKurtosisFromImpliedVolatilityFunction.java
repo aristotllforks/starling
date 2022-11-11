@@ -9,8 +9,8 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.threeten.bp.Clock;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Clock;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.model.volatility.surface.VolatilitySurface;
 import com.opengamma.analytics.math.function.Function2D;

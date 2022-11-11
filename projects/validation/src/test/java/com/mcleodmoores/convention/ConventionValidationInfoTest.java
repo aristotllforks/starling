@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.HashSet;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalTime;
+import java.time.LocalTime;
 
 import com.opengamma.core.convention.Convention;
 import com.opengamma.core.id.ExternalSchemes;

@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Set;
 
 import org.apache.commons.lang.Validate;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.core.historicaltimeseries.HistoricalTimeSeries;
 import com.opengamma.engine.ComputationTarget;

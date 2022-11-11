@@ -6,7 +6,7 @@
 package com.opengamma.analytics.financial.instrument.payment;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.util.ArgumentChecker;
 import com.opengamma.util.money.Currency;

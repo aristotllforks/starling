@@ -11,8 +11,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.mcleodmoores.quandl.QuandlConstants;
 import com.mcleodmoores.quandl.future.QuandlFedFundsFutureCurveInstrumentProvider;

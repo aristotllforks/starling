@@ -6,7 +6,7 @@ package com.mcleodmoores.date;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.util.ArgumentChecker;
 import com.opengamma.util.money.Currency;

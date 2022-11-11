@@ -5,7 +5,7 @@ package com.opengamma.master.historicaltimeseries.impl;
 
 import java.util.concurrent.ConcurrentHashMap;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.id.ExternalIdBundle;
 import com.opengamma.id.ExternalIdBundleWithDates;

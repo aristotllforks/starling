@@ -19,8 +19,8 @@ import org.joda.beans.impl.direct.DirectBeanBuilder;
 import org.joda.beans.impl.direct.DirectMetaBean;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalTime;
+import java.time.LocalDate;
+import java.time.LocalTime;
 
 import com.opengamma.util.PublicSPI;
 

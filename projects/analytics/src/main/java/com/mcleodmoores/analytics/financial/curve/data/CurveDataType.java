@@ -3,7 +3,7 @@
  */
 package com.mcleodmoores.analytics.financial.curve.data;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.mcleodmoores.analytics.financial.generator.interestrate.CurveInstrumentGenerator;
 import com.opengamma.analytics.financial.interestrate.InstrumentDerivative;

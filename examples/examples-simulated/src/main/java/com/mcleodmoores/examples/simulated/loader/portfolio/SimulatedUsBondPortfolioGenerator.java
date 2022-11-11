@@ -5,7 +5,7 @@ package com.mcleodmoores.examples.simulated.loader.portfolio;
 
 import java.math.BigDecimal;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.core.position.Counterparty;

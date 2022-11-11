@@ -7,7 +7,7 @@ package com.opengamma.engine.historicaltimeseries;
 
 import java.util.Map;
 
-import org.threeten.bp.Duration;
+import java.time.Duration;
 
 import com.opengamma.engine.value.ValueSpecification;
 import com.opengamma.timeseries.precise.zdt.ZonedDateTimeDoubleTimeSeries;

@@ -8,7 +8,7 @@ package com.opengamma.core.change;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.id.ObjectId;
 

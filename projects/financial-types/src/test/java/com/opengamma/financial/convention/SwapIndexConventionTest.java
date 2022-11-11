@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 import org.joda.beans.Bean;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalTime;
+import java.time.LocalTime;
 
 import com.opengamma.financial.AbstractBeanTestCase;
 import com.opengamma.id.ExternalId;

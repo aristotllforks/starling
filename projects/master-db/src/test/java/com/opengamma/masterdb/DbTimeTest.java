@@ -16,11 +16,11 @@ import java.util.Map;
 import org.springframework.jdbc.core.RowMapper;
 import org.testng.annotations.Factory;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.OffsetDateTime;
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.format.DateTimeFormatter;
+import java.time.Instant;
+import java.time.LocalDateTime;
+import java.time.OffsetDateTime;
+import java.time.ZoneOffset;
+import java.time.format.DateTimeFormatter;
 
 import com.opengamma.elsql.ElSqlBundle;
 import com.opengamma.util.db.DbDateUtils;
@@ -46,7 +46,7 @@ public class DbTimeTest extends AbstractDbTest {
   // with DST, the spring 'Gap' will cause it to go wrong
 
 //  private static final TimeZone  ORIGINAL_ZONE = TimeZone.getDefault();
-//  private static final org.threeten.bp.ZoneId TZ_LONDON = org.threeten.bp.ZoneId.of("Europe/London");
+//  private static final java.time.ZoneId TZ_LONDON = java.time.ZoneId.of("Europe/London");
   private static final Instant INSTANT1 = LocalDateTime.of(2011, 1, 1, 12, 30, 40, 567123000).toInstant(ZoneOffset.UTC);  // winter
   private static final Instant INSTANT2 = LocalDateTime.of(2011, 7, 1, 12, 30, 40, 567123000).toInstant(ZoneOffset.UTC);  // summer
   private static final Instant INSTANT3 = LocalDateTime.of(2011, 3, 27, 1, 30, 40, 567123000).toInstant(ZoneOffset.UTC);  // Europe spring gap

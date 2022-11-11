@@ -13,8 +13,8 @@ import org.apache.commons.cli.ParseException;
 import org.apache.commons.cli.PosixParser;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.threeten.bp.Instant;
-import org.threeten.bp.OffsetDateTime;
+import java.time.Instant;
+import java.time.OffsetDateTime;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.batch.RunCreationMode;

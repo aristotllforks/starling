@@ -8,7 +8,7 @@ package com.opengamma.analytics.financial.pnl;
 import static org.testng.internal.junit.ArrayAsserts.assertArrayEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.analytics.math.function.Function1D;
 import com.opengamma.timeseries.date.DateDoubleTimeSeries;

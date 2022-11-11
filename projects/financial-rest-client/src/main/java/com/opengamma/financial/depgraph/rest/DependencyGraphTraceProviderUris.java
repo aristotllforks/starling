@@ -10,7 +10,7 @@ import java.util.List;
 
 import javax.ws.rs.core.UriBuilder;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.marketdata.spec.FixedHistoricalMarketDataSpecification;
 import com.opengamma.engine.marketdata.spec.LiveMarketDataSpecification;

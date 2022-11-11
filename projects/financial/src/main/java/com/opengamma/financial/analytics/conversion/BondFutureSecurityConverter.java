@@ -7,7 +7,7 @@ package com.opengamma.financial.analytics.conversion;
 
 import java.util.List;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.analytics.financial.instrument.InstrumentDefinition;

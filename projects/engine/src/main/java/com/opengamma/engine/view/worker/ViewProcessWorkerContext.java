@@ -5,7 +5,7 @@
  */
 package com.opengamma.engine.view.worker;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.view.ViewComputationResultModel;
 import com.opengamma.engine.view.ViewDefinition;

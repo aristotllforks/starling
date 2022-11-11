@@ -23,8 +23,8 @@ import org.joda.beans.impl.direct.DirectMetaBean;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
 import org.joda.beans.impl.direct.DirectPrivateBeanBuilder;
-import org.threeten.bp.Instant;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Instant;
+import java.time.ZonedDateTime;
 
 import com.opengamma.util.ArgumentChecker;
 

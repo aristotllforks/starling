@@ -8,7 +8,7 @@ package com.opengamma.core.user;
 import java.util.Locale;
 import java.util.Map;
 
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.util.PublicAPI;
 

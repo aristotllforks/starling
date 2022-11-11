@@ -3,7 +3,7 @@
  */
 package com.mcleodmoores.date;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.convention.businessday.BusinessDayConvention;
 import com.opengamma.util.time.Tenor;

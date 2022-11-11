@@ -11,7 +11,7 @@ import java.net.URI;
 import javax.ws.rs.core.UriBuilder;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.id.ObjectIdentifiable;
 import com.opengamma.id.UniqueId;

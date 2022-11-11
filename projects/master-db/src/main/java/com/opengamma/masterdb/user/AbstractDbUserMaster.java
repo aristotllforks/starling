@@ -23,7 +23,7 @@ import org.springframework.jdbc.core.namedparam.NamedParameterJdbcOperations;
 import org.springframework.jdbc.support.rowset.SqlRowSet;
 import org.springframework.transaction.TransactionStatus;
 import org.springframework.transaction.support.TransactionCallback;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.codahale.metrics.MetricRegistry;
 import com.codahale.metrics.Timer;

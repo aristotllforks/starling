@@ -11,8 +11,8 @@ package com.opengamma.core.holiday.impl;
 
 import java.util.Collection;
 
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDate;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
 
 import com.google.common.collect.ImmutableSet;
 import com.opengamma.core.AbstractSource;

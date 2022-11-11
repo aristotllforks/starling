@@ -5,7 +5,7 @@
  */
 package com.opengamma.util.jaxb;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * XML adapter for LocalDate.

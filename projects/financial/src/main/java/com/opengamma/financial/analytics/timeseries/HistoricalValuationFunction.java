@@ -13,7 +13,7 @@ import java.util.Set;
 import org.apache.commons.lang.ObjectUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Sets;

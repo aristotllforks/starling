@@ -5,8 +5,8 @@
  */
 package com.opengamma.timeseries.precise.zdt;
 
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.opengamma.timeseries.DoubleTimeSeriesTest;
 

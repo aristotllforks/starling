@@ -12,7 +12,7 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.exec.stats.GraphExecutorStatisticsGatherer;
 import com.opengamma.id.UniqueId;

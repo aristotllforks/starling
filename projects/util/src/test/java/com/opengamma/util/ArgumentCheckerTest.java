@@ -18,7 +18,7 @@ import java.util.Map;
 import java.util.SortedMap;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.ImmutableSortedMap;
 import com.google.common.collect.Sets;

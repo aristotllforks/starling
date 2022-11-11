@@ -19,10 +19,10 @@ import java.util.Set;
 import org.joda.beans.MetaBean;
 import org.joda.beans.Property;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.OffsetTime;
-import org.threeten.bp.ZoneOffset;
+import java.time.LocalDate;
+import java.time.LocalTime;
+import java.time.OffsetTime;
+import java.time.ZoneOffset;
 
 import com.opengamma.core.position.Counterparty;
 import com.opengamma.core.position.Trade;

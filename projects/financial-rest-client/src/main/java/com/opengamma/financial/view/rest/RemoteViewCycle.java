@@ -9,7 +9,7 @@ import java.net.URI;
 
 import javax.ws.rs.core.UriBuilder;
 
-import org.threeten.bp.Duration;
+import java.time.Duration;
 
 import com.opengamma.engine.view.ViewComputationResultModel;
 import com.opengamma.engine.view.compilation.CompiledViewDefinitionWithGraphs;

@@ -64,7 +64,7 @@ import java.util.Set;
 import java.util.TreeMap;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.Iterables;
 import com.opengamma.analytics.financial.instrument.fra.ForwardRateAgreementDefinition;

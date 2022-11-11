@@ -12,7 +12,7 @@ import java.util.Map;
 
 import org.joda.beans.Bean;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.id.ExternalId;

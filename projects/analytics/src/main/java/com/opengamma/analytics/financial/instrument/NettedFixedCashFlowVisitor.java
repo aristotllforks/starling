@@ -8,7 +8,7 @@ package com.opengamma.analytics.financial.instrument;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.timeseries.DoubleTimeSeries;
 import com.opengamma.util.ArgumentChecker;

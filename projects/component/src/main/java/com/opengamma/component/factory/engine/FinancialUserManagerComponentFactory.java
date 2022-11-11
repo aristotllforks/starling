@@ -20,7 +20,7 @@ import org.joda.beans.PropertyDefinition;
 import org.joda.beans.impl.direct.DirectBeanBuilder;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.Duration;
+import java.time.Duration;
 
 import com.opengamma.component.ComponentInfo;
 import com.opengamma.component.ComponentRepository;

@@ -11,7 +11,7 @@ import static com.opengamma.financial.analytics.model.sabr.SABRPropertyValues.NO
 import java.util.HashSet;
 import java.util.Set;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.analytics.financial.forex.method.FXMatrix;
 import com.opengamma.analytics.financial.interestrate.InstrumentDerivative;

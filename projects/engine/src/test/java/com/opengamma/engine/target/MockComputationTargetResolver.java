@@ -7,7 +7,7 @@ package com.opengamma.engine.target;
 
 import java.math.BigDecimal;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.position.Portfolio;
 import com.opengamma.core.position.PortfolioNode;

@@ -5,7 +5,7 @@ package com.mcleodmoores.date;
 
 import java.util.Objects;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.convention.calendar.Calendar;
 import com.opengamma.util.ArgumentChecker;

@@ -8,7 +8,7 @@ package com.opengamma.financial.security.irs;
 import java.util.HashSet;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;

@@ -8,8 +8,8 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.concurrent.atomic.AtomicLong;
 
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalTime;
+import java.time.DayOfWeek;
+import java.time.LocalTime;
 
 import com.opengamma.analytics.financial.instrument.annuity.CompoundingMethod;
 import com.opengamma.analytics.financial.instrument.annuity.DateRelativeTo;

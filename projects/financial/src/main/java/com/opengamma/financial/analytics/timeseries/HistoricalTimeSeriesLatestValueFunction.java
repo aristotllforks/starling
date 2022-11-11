@@ -9,8 +9,8 @@ import java.util.Collections;
 import java.util.Map;
 import java.util.Set;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.google.common.collect.ImmutableSet;
 import com.opengamma.core.historicaltimeseries.HistoricalTimeSeriesAdjustment;

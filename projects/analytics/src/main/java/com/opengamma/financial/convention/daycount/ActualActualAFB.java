@@ -5,10 +5,10 @@
  */
 package com.opengamma.financial.convention.daycount;
 
-import static org.threeten.bp.temporal.ChronoUnit.DAYS;
+import static java.time.temporal.ChronoUnit.DAYS;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
+import java.time.LocalDate;
+import java.time.Month;
 
 import com.opengamma.analytics.financial.schedule.ScheduleFactory;
 

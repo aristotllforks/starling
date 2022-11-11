@@ -8,7 +8,7 @@ package com.opengamma.engine.calcnode.stats;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.util.tuple.Pair;
 import com.opengamma.util.tuple.Pairs;

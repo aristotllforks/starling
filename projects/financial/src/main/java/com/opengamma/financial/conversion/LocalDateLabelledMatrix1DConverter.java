@@ -8,7 +8,7 @@ package com.opengamma.financial.conversion;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.analytics.LocalDateLabelledMatrix1D;
 

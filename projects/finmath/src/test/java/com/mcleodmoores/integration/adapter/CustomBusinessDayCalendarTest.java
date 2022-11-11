@@ -11,7 +11,7 @@ import java.util.HashSet;
 
 import org.joda.time.LocalDate;
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
+import java.time.DayOfWeek;
 
 import com.mcleodmoores.date.SimpleWorkingDayCalendar;
 import com.mcleodmoores.date.WorkingDayCalendar;
@@ -23,7 +23,7 @@ import com.opengamma.util.test.TestGroup;
 @Test(groups = TestGroup.UNIT)
 public class CustomBusinessDayCalendarTest {
   /** Holiday dates */
-  private static final Collection<org.threeten.bp.LocalDate> HOLIDAYS;
+  private static final Collection<java.time.LocalDate> HOLIDAYS;
   /** A test calendar */
   private static final WorkingDayCalendar CALENDAR;
   /** The adapter */
@@ -32,7 +32,7 @@ public class CustomBusinessDayCalendarTest {
   static {
     HOLIDAYS = new HashSet<>();
     for (int i = 1; i < 13; i++) {
-      HOLIDAYS.add(org.threeten.bp.LocalDate.of(2014, i, 1));
+      HOLIDAYS.add(java.time.LocalDate.of(2014, i, 1));
     }
     CALENDAR = new SimpleWorkingDayCalendar("Test", HOLIDAYS, DayOfWeek.SATURDAY, DayOfWeek.SUNDAY);
     BUSINESS_DAY = new CustomBusinessDayCalendar(CALENDAR);

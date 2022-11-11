@@ -7,11 +7,11 @@ package com.opengamma.analytics.financial.credit.isdastandardmodel;
 
 import static com.opengamma.financial.convention.businessday.BusinessDayDateUtils.addWorkDays;
 import static org.testng.AssertJUnit.assertEquals;
-import static org.threeten.bp.Month.OCTOBER;
+import static java.time.Month.OCTOBER;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Period;
 
 import com.opengamma.util.test.TestGroup;
 

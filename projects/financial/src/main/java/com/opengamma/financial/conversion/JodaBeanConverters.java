@@ -12,7 +12,7 @@ import org.apache.commons.lang.StringUtils;
 import org.joda.beans.JodaBeanUtils;
 import org.joda.convert.StringConvert;
 import org.joda.convert.StringConverter;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Lists;
 import com.opengamma.financial.security.cds.CDSIndexTerms;

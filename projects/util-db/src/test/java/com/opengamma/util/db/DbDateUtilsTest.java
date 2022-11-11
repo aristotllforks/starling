@@ -13,10 +13,10 @@ import java.sql.Time;
 import java.sql.Timestamp;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.LocalTime;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
 
 import com.opengamma.util.test.TestGroup;
 import com.opengamma.util.time.DateUtils;

@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.analytics.model.forex.option.localvol;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.model.option.pricing.analytic.formula.EuropeanVanillaOption;
 import com.opengamma.analytics.util.time.TimeCalculator;

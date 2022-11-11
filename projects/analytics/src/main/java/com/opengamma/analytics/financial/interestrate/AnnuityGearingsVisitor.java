@@ -7,7 +7,7 @@ package com.opengamma.analytics.financial.interestrate;
 
 import it.unimi.dsi.fastutil.doubles.DoubleArrayList;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.instrument.InstrumentDefinitionVisitor;
 import com.opengamma.analytics.financial.instrument.InstrumentDefinitionVisitorAdapter;

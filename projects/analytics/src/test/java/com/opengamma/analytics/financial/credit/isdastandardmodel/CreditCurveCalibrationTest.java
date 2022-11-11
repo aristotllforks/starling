@@ -10,9 +10,9 @@ import static org.testng.AssertJUnit.assertEquals;
 
 import java.util.Arrays;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
-import org.threeten.bp.Period;
+import java.time.LocalDate;
+import java.time.Month;
+import java.time.Period;
 
 /**
  * Test.

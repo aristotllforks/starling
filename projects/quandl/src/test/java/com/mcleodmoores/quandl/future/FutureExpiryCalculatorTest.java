@@ -6,10 +6,10 @@ package com.mcleodmoores.quandl.future;
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.DayOfWeek;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.ZonedDateTime;
+import java.time.DayOfWeek;
+import java.time.LocalDateTime;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.quandl.convention.QuandlFedFundsFutureConvention;
 import com.mcleodmoores.quandl.convention.QuandlFinancialConvention;

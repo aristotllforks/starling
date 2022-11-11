@@ -22,8 +22,8 @@ import javax.ws.rs.core.UriInfo;
 import org.fudgemsg.FudgeMsg;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
+import java.time.Instant;
+import java.time.LocalDate;
 
 import com.opengamma.core.DateSet;
 import com.opengamma.core.config.ConfigSource;

@@ -10,8 +10,8 @@ import java.util.Collections;
 import java.util.Map;
 import java.util.Set;
 
-import org.threeten.bp.Duration;
-import org.threeten.bp.Instant;
+import java.time.Duration;
+import java.time.Instant;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;

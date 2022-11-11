@@ -9,8 +9,8 @@ import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.util.Random;
 
-import org.threeten.bp.ZoneOffset;
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.core.position.Counterparty;

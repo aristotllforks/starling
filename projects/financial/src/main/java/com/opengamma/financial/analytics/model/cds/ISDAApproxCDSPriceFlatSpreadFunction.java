@@ -8,7 +8,7 @@ package com.opengamma.financial.analytics.model.cds;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.credit.cds.ISDAApproxCDSPricingMethod;
 import com.opengamma.analytics.financial.credit.cds.ISDACDSDerivative;

@@ -7,7 +7,7 @@ package com.opengamma.timeseries.precise.zdt;
 
 import java.util.Map;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.timeseries.precise.PreciseObjectTimeSeries;
 import com.opengamma.timeseries.precise.PreciseObjectTimeSeriesBuilder;

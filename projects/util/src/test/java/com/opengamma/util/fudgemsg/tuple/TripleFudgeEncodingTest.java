@@ -6,8 +6,8 @@
 package com.opengamma.util.fudgemsg.tuple;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import com.opengamma.id.ExternalId;
 import com.opengamma.id.ExternalIdBundle;

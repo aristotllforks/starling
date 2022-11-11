@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.convention.daycount;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 /**
  * Base class for '30/360' style day counts.

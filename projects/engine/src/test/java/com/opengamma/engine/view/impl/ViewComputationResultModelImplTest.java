@@ -14,8 +14,8 @@ import static org.testng.AssertJUnit.assertNotNull;
 import java.util.Map;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Duration;
-import org.threeten.bp.Instant;
+import java.time.Duration;
+import java.time.Instant;
 
 import com.google.common.collect.Sets;
 import com.opengamma.engine.value.ComputedValueResult;

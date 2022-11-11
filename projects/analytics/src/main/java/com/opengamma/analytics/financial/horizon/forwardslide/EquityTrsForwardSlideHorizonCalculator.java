@@ -5,7 +5,7 @@
  */
 package com.opengamma.analytics.financial.horizon.forwardslide;
 
-import org.threeten.bp.ZonedDateTime;
+import java.time.ZonedDateTime;
 
 import com.opengamma.analytics.financial.equity.trs.definition.EquityTotalReturnSwap;
 import com.opengamma.analytics.financial.equity.trs.definition.EquityTotalReturnSwapDefinition;

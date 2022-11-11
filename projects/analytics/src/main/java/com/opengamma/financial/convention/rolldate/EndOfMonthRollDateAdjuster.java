@@ -5,9 +5,9 @@
  */
 package com.opengamma.financial.convention.rolldate;
 
-import org.threeten.bp.temporal.Temporal;
-import org.threeten.bp.temporal.TemporalAdjuster;
-import org.threeten.bp.temporal.TemporalAdjusters;
+import java.time.temporal.Temporal;
+import java.time.temporal.TemporalAdjuster;
+import java.time.temporal.TemporalAdjusters;
 
 import com.opengamma.util.ArgumentChecker;
 

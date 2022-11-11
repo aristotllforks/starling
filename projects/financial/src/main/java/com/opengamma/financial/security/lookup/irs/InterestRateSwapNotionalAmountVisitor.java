@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.security.lookup.irs;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.security.irs.InterestRateSwapNotional;
 import com.opengamma.financial.security.irs.InterestRateSwapNotionalVisitor;

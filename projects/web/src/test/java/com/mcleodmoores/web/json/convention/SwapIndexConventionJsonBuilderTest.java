@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalTime;
+import java.time.LocalTime;
 
 import com.opengamma.financial.convention.SwapIndexConvention;
 import com.opengamma.id.ExternalId;

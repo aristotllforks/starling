@@ -8,10 +8,10 @@ package com.opengamma.financial.convention;
 import java.util.EnumSet;
 import java.util.Set;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.Month;
-import org.threeten.bp.temporal.Temporal;
-import org.threeten.bp.temporal.TemporalAdjuster;
+import java.time.LocalDate;
+import java.time.Month;
+import java.time.temporal.Temporal;
+import java.time.temporal.TemporalAdjuster;
 
 import com.opengamma.util.ArgumentChecker;
 

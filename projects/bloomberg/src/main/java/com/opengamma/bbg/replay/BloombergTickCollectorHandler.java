@@ -23,8 +23,8 @@ import org.fudgemsg.FudgeMsg;
 import org.fudgemsg.MutableFudgeMsg;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Clock;
-import org.threeten.bp.Instant;
+import java.time.Clock;
+import java.time.Instant;
 
 import com.bloomberglp.blpapi.Element;
 import com.bloomberglp.blpapi.Event;

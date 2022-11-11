@@ -8,7 +8,7 @@ package com.opengamma.analytics.financial.instrument.index;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.mcleodmoores.date.CalendarAdapter;
 import com.mcleodmoores.date.EmptyWorkingDayCalendar;

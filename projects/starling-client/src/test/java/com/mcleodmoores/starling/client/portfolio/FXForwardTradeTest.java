@@ -7,11 +7,11 @@ import java.math.BigDecimal;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.Month;
-import org.threeten.bp.OffsetTime;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+import java.time.Month;
+import java.time.OffsetTime;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.core.position.Position;

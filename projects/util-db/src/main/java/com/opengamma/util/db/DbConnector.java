@@ -25,8 +25,8 @@ import org.springframework.transaction.TransactionException;
 import org.springframework.transaction.TransactionStatus;
 import org.springframework.transaction.support.TransactionCallback;
 import org.springframework.transaction.support.TransactionTemplate;
-import org.threeten.bp.Clock;
-import org.threeten.bp.Instant;
+import java.time.Clock;
+import java.time.Instant;
 
 import com.opengamma.util.ArgumentChecker;
 import com.opengamma.util.Connector;

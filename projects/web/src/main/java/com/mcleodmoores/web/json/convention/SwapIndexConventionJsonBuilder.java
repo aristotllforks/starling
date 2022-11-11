@@ -5,7 +5,7 @@ package com.mcleodmoores.web.json.convention;
 
 import java.util.Map;
 
-import org.threeten.bp.LocalTime;
+import java.time.LocalTime;
 
 import com.opengamma.financial.convention.SwapConvention;
 import com.opengamma.financial.convention.SwapIndexConvention;

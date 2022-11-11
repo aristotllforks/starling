@@ -16,7 +16,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 import org.fudgemsg.MutableFudgeMsg;
 import org.fudgemsg.mapping.FudgeSerializer;
-import org.threeten.bp.Duration;
+import java.time.Duration;
 
 import com.opengamma.engine.calcnode.msg.Invocations;
 import com.opengamma.engine.calcnode.msg.Invocations.PerConfiguration;

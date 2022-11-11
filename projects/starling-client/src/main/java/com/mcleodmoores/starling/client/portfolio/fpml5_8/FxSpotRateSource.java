@@ -18,8 +18,8 @@ import org.joda.beans.impl.direct.DirectFieldsBeanBuilder;
 import org.joda.beans.impl.direct.DirectMetaBean;
 import org.joda.beans.impl.direct.DirectMetaProperty;
 import org.joda.beans.impl.direct.DirectMetaPropertyMap;
-import org.threeten.bp.LocalTime;
-import org.threeten.bp.ZoneId;
+import java.time.LocalTime;
+import java.time.ZoneId;
 
 /**
  * An object containing information to source FX spot rates containing the data source, the fixing time and the business centre time zone.

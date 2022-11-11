@@ -16,7 +16,7 @@ import org.fudgemsg.MutableFudgeMsg;
 import org.fudgemsg.mapping.FudgeBuilderFor;
 import org.fudgemsg.mapping.FudgeDeserializer;
 import org.fudgemsg.mapping.FudgeSerializer;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.financial.analytics.parameters.HullWhiteOneFactorParameters;
 import com.opengamma.id.ExternalId;

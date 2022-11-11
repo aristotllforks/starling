@@ -4,7 +4,7 @@
  * Please see distribution for license.
  */
 import com.opengamma.id.VersionCorrection
-import org.threeten.bp.Instant
+import java.time.Instant
 
 // nonsense scenario definition to test the DSL classes
 scenario 'scenario name', {

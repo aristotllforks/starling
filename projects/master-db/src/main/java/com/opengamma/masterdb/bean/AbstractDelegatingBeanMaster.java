@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.joda.beans.Bean;
-import org.threeten.bp.Clock;
+import java.time.Clock;
 
 import com.codahale.metrics.MetricRegistry;
 import com.opengamma.core.change.ChangeManager;

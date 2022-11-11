@@ -19,7 +19,7 @@ import org.codehaus.groovy.control.CompilerConfiguration;
 import org.codehaus.groovy.control.customizers.ASTTransformationCustomizer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.Lists;

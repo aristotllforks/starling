@@ -5,8 +5,8 @@
  */
 package com.opengamma.timeseries.precise.instant;
 
-import org.threeten.bp.Instant;
-import org.threeten.bp.jdk8.Jdk8Methods;
+import java.time.Instant;
+import java.time.jdk8.Jdk8Methods;
 
 /**
  * An encoder between {@code Instant} and {@code long}.

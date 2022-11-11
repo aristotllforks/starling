@@ -6,8 +6,8 @@
 package com.opengamma.engine.fudgemsg;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Duration;
-import org.threeten.bp.Instant;
+import java.time.Duration;
+import java.time.Instant;
 
 import com.google.common.base.Function;
 import com.opengamma.engine.view.execution.ViewCycleExecutionOptions;

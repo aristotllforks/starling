@@ -5,8 +5,8 @@
  */
 package com.opengamma.engine.function;
 
-import org.threeten.bp.Clock;
-import org.threeten.bp.Instant;
+import java.time.Clock;
+import java.time.Instant;
 
 import com.opengamma.core.legalentity.LegalEntitySource;
 import com.opengamma.core.security.SecuritySource;

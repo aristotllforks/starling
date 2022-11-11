@@ -7,7 +7,7 @@ package com.opengamma.integration.regression;
 
 import java.util.List;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.google.common.base.Preconditions;
 import com.google.common.collect.Iterables;

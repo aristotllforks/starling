@@ -14,8 +14,8 @@ import java.util.concurrent.ConcurrentMap;
 
 import org.apache.commons.lang.StringUtils;
 import org.joda.beans.JodaBeanUtils;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
+import java.time.Instant;
+import java.time.LocalDate;
 
 import com.google.common.base.MoreObjects;
 import com.google.common.base.Supplier;

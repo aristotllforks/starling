@@ -5,7 +5,7 @@
  */
 package com.opengamma.integration.tool.portfolio.xml.v1_0.jaxb;
 
-import org.threeten.bp.YearMonth;
+import java.time.YearMonth;
 
 import com.opengamma.util.jaxb.AbstractDateAdapter;
 

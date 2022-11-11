@@ -10,7 +10,7 @@ import static org.testng.AssertJUnit.assertEquals;
 import java.util.TreeMap;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.analytics.cashflow.FixedPaymentMatrix;
 import com.opengamma.util.money.Currency;

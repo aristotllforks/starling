@@ -5,7 +5,7 @@
  */
 package com.opengamma.financial.analytics;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.opengamma.util.ArgumentChecker;
 import com.opengamma.util.time.Tenor;

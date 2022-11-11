@@ -14,7 +14,7 @@ import java.util.Arrays;
 import org.joda.beans.BeanBuilder;
 import org.joda.beans.Property;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.analytics.financial.credit.isdastandardmodel.ISDACompliantDateYieldCurve.Meta;
 import com.opengamma.financial.convention.daycount.DayCount;

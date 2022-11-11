@@ -17,7 +17,7 @@ import java.util.Iterator;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.ComputationTargetSpecification;
 import com.opengamma.engine.cache.CacheSelectHint;

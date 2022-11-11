@@ -15,9 +15,9 @@ import javax.swing.ComboBoxModel;
 import javax.swing.SwingWorker;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.ZoneId;
-import org.threeten.bp.format.DateTimeFormatter;
-import org.threeten.bp.format.FormatStyle;
+import java.time.ZoneId;
+import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
 
 import com.opengamma.OpenGammaRuntimeException;
 import com.opengamma.id.ObjectId;

@@ -5,7 +5,7 @@
  */
 package com.opengamma.analytics.financial.credit.isdastandardmodel;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.convention.daycount.DayCount;
 import com.opengamma.financial.convention.daycount.DayCounts;

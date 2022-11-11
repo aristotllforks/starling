@@ -6,7 +6,7 @@
 package com.opengamma.financial.analytics.curve;
 
 import org.apache.commons.lang.ObjectUtils;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.value.MarketDataRequirementNames;
 import com.opengamma.id.ExternalId;

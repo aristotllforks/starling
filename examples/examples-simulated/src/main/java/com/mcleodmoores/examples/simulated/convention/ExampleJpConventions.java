@@ -8,7 +8,7 @@ package com.mcleodmoores.examples.simulated.convention;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.threeten.bp.LocalTime;
+import java.time.LocalTime;
 
 import com.opengamma.core.id.ExternalSchemes;
 import com.opengamma.financial.convention.BondConvention;

@@ -10,8 +10,8 @@ import java.util.Collections;
 import java.util.List;
 
 import org.testng.annotations.Test;
-import org.threeten.bp.Instant;
-import org.threeten.bp.LocalDate;
+import java.time.Instant;
+import java.time.LocalDate;
 
 import com.opengamma.core.holiday.HolidayType;
 import com.opengamma.core.holiday.WeekendType;

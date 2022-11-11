@@ -6,7 +6,7 @@
 
 package com.opengamma.core.historicaltimeseries.impl;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.core.change.ChangeProvider;
 import com.opengamma.core.historicaltimeseries.HistoricalTimeSeries;

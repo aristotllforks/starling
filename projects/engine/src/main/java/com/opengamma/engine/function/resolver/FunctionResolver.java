@@ -5,7 +5,7 @@
  */
 package com.opengamma.engine.function.resolver;
 
-import org.threeten.bp.Instant;
+import java.time.Instant;
 
 import com.opengamma.engine.function.FunctionDefinition;
 import com.opengamma.util.PublicAPI;

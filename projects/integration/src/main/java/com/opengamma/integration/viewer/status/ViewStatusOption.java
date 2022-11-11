@@ -17,8 +17,8 @@ import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.lang.StringUtils;
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.format.DateTimeParseException;
+import java.time.LocalDate;
+import java.time.format.DateTimeParseException;
 
 import com.google.common.collect.Lists;
 import com.opengamma.OpenGammaRuntimeException;

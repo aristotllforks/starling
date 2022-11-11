@@ -5,7 +5,7 @@
  */
 package com.opengamma.examples.simulated.loader;
 
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import com.opengamma.component.tool.AbstractTool;
 import com.opengamma.core.id.ExternalSchemes;

@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.Map;
 import java.util.Objects;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.util.ArgumentChecker;
 import com.opengamma.util.money.Currency;

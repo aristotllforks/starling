@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import org.threeten.bp.Period;
+import java.time.Period;
 
 import com.mcleodmoores.examples.simulated.loader.config.ExampleConfigUtils;
 import com.opengamma.analytics.math.interpolation.factory.LinearExtrapolator1dAdapter;

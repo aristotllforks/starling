@@ -9,7 +9,7 @@ import static org.testng.AssertJUnit.assertEquals;
 import static org.testng.AssertJUnit.assertNotNull;
 import static org.testng.AssertJUnit.assertNull;
 
-import org.threeten.bp.ZoneId;
+import java.time.ZoneId;
 
 import org.testng.annotations.Test;
 

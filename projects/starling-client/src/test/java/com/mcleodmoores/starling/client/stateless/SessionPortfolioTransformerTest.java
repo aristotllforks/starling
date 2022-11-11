@@ -6,7 +6,7 @@ package com.mcleodmoores.starling.client.stateless;
 import org.joda.beans.JodaBeanUtils;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.google.common.collect.Iterables;
 import com.mcleodmoores.starling.client.portfolio.FXForwardTrade;

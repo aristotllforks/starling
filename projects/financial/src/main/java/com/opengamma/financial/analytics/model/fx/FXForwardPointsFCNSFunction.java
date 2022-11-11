@@ -14,8 +14,8 @@ import static com.opengamma.engine.value.ValueRequirementNames.FX_FORWARD_POINTS
 import java.util.Collections;
 import java.util.Set;
 
-import org.threeten.bp.Instant;
-import org.threeten.bp.ZonedDateTime;
+import java.time.Instant;
+import java.time.ZonedDateTime;
 
 import com.google.common.collect.Iterables;
 import com.opengamma.analytics.financial.forex.derivative.Forex;

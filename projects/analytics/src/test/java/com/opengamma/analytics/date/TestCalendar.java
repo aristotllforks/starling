@@ -5,7 +5,7 @@ package com.opengamma.analytics.date;
 
 import java.util.Collection;
 
-import org.threeten.bp.LocalDate;
+import java.time.LocalDate;
 
 import com.opengamma.financial.convention.calendar.MondayToFridayCalendar;
 

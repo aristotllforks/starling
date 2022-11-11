@@ -5,10 +5,10 @@
  */
 package com.opengamma.analytics.util.time;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.Period;
-import org.threeten.bp.ZonedDateTime;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.Period;
+import java.time.ZonedDateTime;
 
 import com.mcleodmoores.date.WorkingDayCalendar;
 import com.opengamma.financial.convention.calendar.Calendar;
